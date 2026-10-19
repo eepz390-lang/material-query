@@ -37,11 +37,12 @@ footer{text-align:center;color:#93a1ad;font-size:11px;padding:24px 12px 34px}
 <header><div class="top"><div class="brand">物料智查 <small>MATERIAL FINDER · 物料图像与用量查询</small></div><div class="pill">手机 / 电脑均可使用</div></div></header>
 <main>
 <section class="panel">
-<h1>快速查询物料</h1><div class="sub">选择机型，再输入物料代码或名称，即可查看图片、基本用量与适用机型。</div>
-<div class="searchgrid">
-<div><label for="model">选择机型</label><select id="model"><option value="全部">全部机型</option><option value="2900">2900</option><option value="1800">1800</option><option value="1100">1100</option></select></div>
-<div><label for="keyword">物料代码 / 物料名称</label><input id="keyword" placeholder="例如：21.01.0008 或 M5×12" autocomplete="off"></div>
-<button id="search">查询物料</button>
+<h1>快速查询物料</h1>
+<div class="sub">选择机型 / Select Model / เลือกรุ่น，再输入物料代码或名称，即可查看图片、基本用量与适用机型。Enter a material code or name to view images, usage, and applicable models. ป้อนรหัสวัสดุหรือชื่อเพื่อดูรูปภาพ ปริมาณการใช้ และรุ่นที่ใช้งานได้</div>
+
+<div class="searchgrid"><div>
+  <label for="orderQty">需求数量 / Required Quantity / จำนวนที่ต้องการ</label>
+  <input id="orderQty" type="number" min="1" step="1" value="1" placeholder="请输入数量 / Enter quantity / กรอกจำนวน">
 </div>
 <div class="hint">支持输入完整物料代码或关键词；选择“全部机型”可查看共用物料及适用机型。</div>
 <div class="stats"><span class="stat">机型：2900 / 1800 / 1100</span><span class="stat" id="total">物料载入中…</span><span class="stat">免费静态网页</span></div>
@@ -62,7 +63,16 @@ function render(){
  $("count").textContent=`找到 ${list.length} 条物料`;
  if(!list.length){$("results").innerHTML='<div class="empty"><strong>没有找到匹配物料</strong>请检查机型或物料代码，也可以尝试输入名称关键词。</div>';return}
  $("results").innerHTML=list.slice(0,100).map(x=>{
- const ms=applicable(x.code);return `<article class="item"><div class="photo">${x.image?`<img loading="lazy" src="${esc(x.image)}" alt="${esc(x.code)}" onerror="this.outerHTML='<div class=&quot;noimg&quot;>暂无图片</div>'">`:'<div class="noimg">暂无图片</div>'}</div><div class="info"><div class="code">${esc(x.code)}</div><div class="name">${esc(x.name)}</div>${x.english?`<div class="eng">${esc(x.english)}</div>`:''}${x.thai?`<div class="thai">${esc(x.thai)}</div>`:''}<div class="meta"><span class="tag">用量：${esc(x.qty)} ${esc(x.unit)}</span><span class="tag model">适用：${ms.join(" / ")}</span></div></div></article>`
+ const ms=applicable(x.code);return `<article class="item"><div class="photo">${x.image?`<img loading="lazy" src="${esc(x.image)}" alt="${esc(x.code)}" onerror="this.outerHTML='<div class=&quot;noimg&quot;>暂无图片</div>'">`:'<div class="noimg">暂无图片</div>'}</div><div class="info"><div class="code">${esc(x.code)}</div><div class="name">${esc(x.name)}</div>${x.english?`<div class="eng">${esc(x.english)}</div>`:''}${x.thai?`<div class="thai">${esc(x.thai)}</div>`:''}
+<div class="meta">
+  <span class="tag">单台用量 / Usage / ปริมาณต่อเครื่อง：${esc(x.qty)} ${esc(x.unit)}</span>
+  <span class="tag">需求数量 / Required Qty：${esc($("orderQty").value || 1)}</span>
+  <span class="tag">总需求量 / Total Required：
+    ${Number(x.qty) * Number($("orderQty").value || 1)} ${esc(x.unit)}
+  </span>
+  <span class="tag model">适用机型 / Applicable Models：${ms.join(" / ")}</span>
+</div>
+</div></article>`
  }).join("")+(list.length>100?'<div class="empty">当前显示前 100 条，请输入更具体的关键词缩小范围。</div>':'');
 }
 $("search").addEventListener("click",render);$("model").addEventListener("change",render);$("keyword").addEventListener("input",render);$("keyword").addEventListener("keydown",e=>{if(e.key==="Enter")render()});
