@@ -1,0 +1,3542 @@
+[
+  {
+    "model": "2900",
+    "code": "21.01.0008",
+    "name": "M5×12内六角螺钉(12.9级)",
+    "english": "He×. Socket Screw M5×12 (12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M5×12 เกรด 12.9",
+    "image": "images/2900_2.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.01.0020",
+    "name": "M6×20内六角螺钉(12.9级)",
+    "english": "He×. Socket Screw M6×20 (12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M6×20 เกรด 12.9",
+    "image": "images/2900_3.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.01.0034",
+    "name": "M8×25内六角螺钉(12.9级)",
+    "english": "He×. Socket Screw M8×25 (12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M8×25 เกรด 12.9",
+    "image": "images/2900_4.jpeg",
+    "qty": 6,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.01.0035",
+    "name": "M8×20内六角螺钉(12.9级)",
+    "english": "He×. Socket Screw M8×20 (12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M8×20 เกรด 12.9",
+    "image": "images/2900_5.jpeg",
+    "qty": 5,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.02.0016",
+    "name": "ST4.8×70×35十字螺钉",
+    "english": "Tapping Screw ST4.8×70×35",
+    "thai": "สกรูหัวแฉก ST4.8×70×35",
+    "image": "images/2900_6.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.02.0041",
+    "name": "ST4.2×25十字宽牙螺钉",
+    "english": "Tapping Screw  ST4.2×25",
+    "thai": "สกรูหัวแฉกเกลียวหยาบ ST4.2×25",
+    "image": "images/2900_7.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.03.0003",
+    "name": "M4×8圆头十字螺钉",
+    "english": "Machine Screw M4×8",
+    "thai": "สกรูหัวกลมแฉก M4×8",
+    "image": "images/2900_8.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.07.0007",
+    "name": "M10防松螺母",
+    "english": "M10 Anti-Loosing Nut",
+    "thai": "น็อตกันหลวม M10",
+    "image": "images/2900_9.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.07.0013",
+    "name": "M12×1左旋防松螺母",
+    "english": "M12×1 Anti-Loosing Nut",
+    "thai": "น็อตกันหลวมเกลียวซ้าย M12×1",
+    "image": "images/2900_10.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.07.0015",
+    "name": "M14六角螺母",
+    "english": "M14 Six Nut",
+    "thai": "น็อตหกเหลี่ยม M14",
+    "image": "images/2900_11.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.08.0006",
+    "name": "Ф5平垫(大标)_Ф5.3×Ф15×1",
+    "english": "Φ5 Flat Washer Ф5.3×Ф15×1",
+    "thai": "แหวนรองแบน Φ5 (ขนาดใหญ่) Φ5.3×Φ15×1",
+    "image": "images/2900_12.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.08.0017",
+    "name": "Φ10平垫",
+    "english": "Φ10 Flat Washer",
+    "thai": "แหวนรองแบน Φ10",
+    "image": "images/2900_13.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.11.0004",
+    "name": "Φ37孔用弹性挡圈",
+    "english": "Φ37 Retaining Ring",
+    "thai": "แหวนกดสปริงสำหรับรู Φ37",
+    "image": "images/2900_14.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.11.0008",
+    "name": "Φ42孔用弹性挡圈",
+    "english": "Φ42 Retaining Ring",
+    "thai": "แหวนกดสปริงสำหรับรู Φ42",
+    "image": "images/2900_15.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.12.0007",
+    "name": "Φ24轴用弹性挡圈",
+    "english": "Φ24 Retaining Ring",
+    "thai": "แหวนกดสปริงสำหรับเพลา Φ24",
+    "image": "images/2900_16.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.15.0005",
+    "name": "平键4×18",
+    "english": "Falt Key 4×18",
+    "thai": "ลิ่นแบน 4×18",
+    "image": "images/2900_17.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.16.0005",
+    "name": "弹性圆柱销Ф8×55",
+    "english": "Spring Column Pin",
+    "thai": "พินสปริงทรงกระบอก Φ8×55",
+    "image": "images/2900_18.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.17.0163",
+    "name": "减震弹簧Ф1.8×14×56.5",
+    "english": "Shock Absorption Spring Φ1.8x14x56.5",
+    "thai": "สปริงกันสั่น Φ1.8×14×56.5",
+    "image": "images/2900_19.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.18.0013",
+    "name": "ST4.2×16梅花盘头宽牙螺钉",
+    "english": "ST4.2×16 Wide tooth  Torx head self-tapping screw",
+    "thai": "สกรูหัวจานรูปดอกไม้เกลียวหยาบ ST4.2×16",
+    "image": "images/2900_20.jpeg",
+    "qty": 7,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.19.0001",
+    "name": "M6×35内六角螺钉(二组合)",
+    "english": "He×. Socket Screw ASS'y M6×35",
+    "thai": "สกรูหกเหลี่ยมรูใน M6×35 (ชุด 2 ชิ้น)",
+    "image": "images/2900_21.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.19.0002",
+    "name": "M6×50内六角螺钉(二组合)",
+    "english": "He×. Socket Screw  ASS'y M6×50 ",
+    "thai": "สกรูหกเหลี่ยมรูใน M6×50 (ชุด 2 ชิ้น)",
+    "image": "images/2900_22.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.19.0003",
+    "name": "M6×15内六角螺钉(12.9级)(二组合)",
+    "english": "He×. Socket Screw ASS'y M6×15 (12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M6×15 เกรด12.9 (ชุด 2 ชิ้น)",
+    "image": "images/2900_23.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.19.0004",
+    "name": "M10×70内六角螺钉(12.9级)(三组合)",
+    "english": "He×. Socket Screw ASS'y M10×70 (12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M10×70 เกรด12.9 (ชุด 3 ชิ้น)",
+    "image": "images/2900_24.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "21.19.0005",
+    "name": "M14×70内六角螺钉(12.9级)(三组合)",
+    "english": "He×. Socket Screw ASS'y M14×70 (12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M14×70 เกรด12.9 (ชุด 3 ชิ้น)",
+    "image": "images/2900_25.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "23.01.0010",
+    "name": "6004LUVCW轴承(G0011)",
+    "english": "Ball Bearing 6004 LUV CW",
+    "thai": "ตลับลูกปืน 6004LUVCW (G0011)",
+    "image": "images/2900_26.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "23.01.0013",
+    "name": "6301ZVCW轴承(铁封)(G0011)",
+    "english": "Ball Bearing 6301ZV CW",
+    "thai": "ตลับลูกปืน 6301ZVCW (ฝาเหล็ก) (G0011)",
+    "image": "images/2900_27.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "23.01.0138",
+    "name": "6205DD轴承(G0010)",
+    "english": "Ball Bearing 6205DD ",
+    "thai": "ตลับลูกปืน 6205DD (G0010)",
+    "image": "images/2900_28.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "23.01.0140",
+    "name": "6206RS轴承(G0010)",
+    "english": "Ball Bearing 6206 RS",
+    "thai": "ตลับลูกปืน 6206RS (G0010)",
+    "image": "images/2900_29.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "23.02.0007",
+    "name": "HK1612滚针轴承(G0009)",
+    "english": "Needle Bearing HK1612",
+    "thai": "ตลับลูกปืนเข็ม HK1612 (G0009)",
+    "image": "images/2900_30.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "23.02.0018",
+    "name": "无内圈滚针轴承202823",
+    "english": "Needle Bearing 202823",
+    "thai": "ตลับลูกปืนเข็มไม่มีวงใน 202823",
+    "image": "images/2900_31.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "24.01.0104",
+    "name": "(0104)开关HY98-11-2_20(20)A127V(科都)",
+    "english": "Switch （KEDU) 120V",
+    "thai": "(0104)สวิตช์ HY98-11-2_20(20)A127V (Kedu)",
+    "image": "images/2900_32.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "24.03.0070",
+    "name": "(0070)碳刷T20-6.2×16×22.5-120V整机",
+    "english": "Carbon Brush 120V",
+    "thai": "(0070)แปรงคาร์บอน T20-6.2×16×22.5-120V สำหรับเครื่องทั้งชุด",
+    "image": "images/2900_33.jpeg",
+    "qty": 1,
+    "unit": "副"
+  },
+  {
+    "model": "2900",
+    "code": "24.03.0072",
+    "name": "(0072)碳刷T20-6.2×16×22.5-120V附件",
+    "english": "Carbon Brush 120V",
+    "thai": "(0072)แปรงคาร์บอน T20-6.2×16×22.5-120V อะไหล่เสริม",
+    "image": "images/2900_34.jpeg",
+    "qty": 2,
+    "unit": "副"
+  },
+  {
+    "model": "2900",
+    "code": "24.06.0005",
+    "name": "(0005)盘簧",
+    "english": "Coil spring",
+    "thai": "(0005)สปริงจาน",
+    "image": "images/2900_35.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "24.06.0023",
+    "name": "6.3mm接插件(整卷)",
+    "english": "6.3mm Connector",
+    "thai": "ขั้วต่อ 6.3 มม. (ม้วนเต็ม)",
+    "image": "images/2900_36.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "24.06.0024",
+    "name": "6.3mm接插件护套",
+    "english": "6.3mm Connector Cover",
+    "thai": "ปลอกหุ้มขั้วต่อ 6.3 มม.",
+    "image": "images/2900_37.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "24.06.0042",
+    "name": "Φ4.2接线扣(整卷)",
+    "english": "wire connector",
+    "thai": "คลิปหนีบสายไฟ Φ4.2 (ม้วนเต็ม)",
+    "image": "images/2900_38.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "25.02.0015DL03",
+    "name": "DL03温岭美式AD-105SOW2×14AWG×4.15M",
+    "english": "Power Cord",
+    "thai": "DL03 สายไฟสไตล์อเมริกัน AD-105SOW 2×14AWG ยาว 4.15 ม.",
+    "image": "images/2900_39.jpeg",
+    "qty": 1,
+    "unit": "根"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0267",
+    "name": "(0267)辅手柄装饰盖",
+    "english": "Side Handle Cover",
+    "thai": "(0267)ฝาปิดตกแต่งมือจับรอง",
+    "image": "images/2900_40.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0268-19",
+    "name": "(0268)辅手柄(9005黑色)",
+    "english": "Side Handle",
+    "thai": "(0268)มือจับรอง (สีดำ 9005)",
+    "image": "images/2900_41.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0271-19",
+    "name": "(0271)手柄座(9005黑色)",
+    "english": "Side Handle  Base",
+    "thai": "(0271)ฐานมือจับ (สีดำ 9005)",
+    "image": "images/2900_42.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0272",
+    "name": "(0272)开关盖板",
+    "english": "Switch Cover",
+    "thai": "(0272)ฝาปิดสวิตช์",
+    "image": "images/2900_43.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0274-19",
+    "name": "(0274)主手柄(9005黑色)",
+    "english": "Main Handle",
+    "thai": "(0274)มือจับหลัก (สีดำ 9005)",
+    "image": "images/2900_44.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0275-19",
+    "name": "(0275)主手柄盖(9005黑色)",
+    "english": "Main Handle Cover ",
+    "thai": "(0275)ฝาปิดมือจับหลัก (สีดำ 9005)",
+    "image": "images/2900_45.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0276",
+    "name": "(0276)螺丝套",
+    "english": "Screw sleeve",
+    "thai": "(0276)ปลอกสกรู",
+    "image": "images/2900_46.jpeg",
+    "qty": 8,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0287",
+    "name": "(0287)定子套",
+    "english": "Motor Housing",
+    "thai": "(0287)ปลอกสเตเตอร์",
+    "image": "images/2900_47.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0289",
+    "name": "(0289)定位支架",
+    "english": "Positioning Bracket",
+    "thai": "(0289)ขาตั้งกำหนดตำแหน่ง",
+    "image": "images/2900_48.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0290-19",
+    "name": "(0290)装饰罩(9005黑色)",
+    "english": "Decorative cover",
+    "thai": "(0290)ฝาครอบตกแต่ง (สีดำ 9005)",
+    "image": "images/2900_49.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0291",
+    "name": "(0291)轴承装饰盖",
+    "english": "Decorative cover",
+    "thai": "(0291)ฝาปิดตกแต่งตลับลูกปืน",
+    "image": "images/2900_50.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0292-19",
+    "name": "(0292)顶罩(9005黑色)",
+    "english": "Cover",
+    "thai": "(0292)ฝาครอบด้านบน (สีดำ 9005)",
+    "image": "images/2900_51.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0293",
+    "name": "(0293)电缆线压板",
+    "english": "Cord Clip ",
+    "thai": "(0293)แผ่นกดสายเคเบิล",
+    "image": "images/2900_52.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "26.01.0462-19",
+    "name": "(0462)开关扳机(配科都开关)(9005黑色)",
+    "english": "Switch Trigger（KEDU)",
+    "thai": "(0462)คันโยกสวิตช์ (ใช้คู่กับสวิตช์ Kedu) (สีดำ 9005)",
+    "image": "images/2900_53.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0152-19",
+    "name": "(0152)镐杆夹(电泳)",
+    "english": "Chisel Chuck(cataphoresis)",
+    "thai": "(0152)คลิปจับแท่งสกัด (เคลือบอิเล็กโทรโฟรีซิส)",
+    "image": "images/2900_54.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0153",
+    "name": "(0153)锁杆",
+    "english": "Locking Lever",
+    "thai": "(0153)แท่งล็อก",
+    "image": "images/2900_55.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0157",
+    "name": "(0157)内套管",
+    "english": "Inner sleeve",
+    "thai": "(0157)ท่อด้านใน",
+    "image": "images/2900_56.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0158",
+    "name": "(0158)外套管",
+    "english": "Outer sleeve",
+    "thai": "(0158)ท่อด้านนอก",
+    "image": "images/2900_57.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0176",
+    "name": "(0176)曲轴",
+    "english": "Crank Shaft ",
+    "thai": "(0176)เพลาข้อเหวี่ยง",
+    "image": "images/2900_58.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0177",
+    "name": "(0177)连杆",
+    "english": "Connecting Rod",
+    "thai": "(0177)แท่งเชื่อมต่อ",
+    "image": "images/2900_59.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0178",
+    "name": "(0178)头套",
+    "english": "Front Cover ",
+    "thai": "(0178)ปลอกหัว",
+    "image": "images/2900_60.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0179",
+    "name": "(0179)冲锤",
+    "english": "Impact Hammer ",
+    "thai": "(0179)ลูกตี",
+    "image": "images/2900_61.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0180",
+    "name": "(0180)冲锤挡圈",
+    "english": "Hammer ring",
+    "thai": "(0180)แหวนกั้นลูกตี",
+    "image": "images/2900_62.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0181",
+    "name": "(0181)挡圈",
+    "english": "locking Ring",
+    "thai": "(0181)แหวนกั้น",
+    "image": "images/2900_63.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0182",
+    "name": "(0182)冲击活塞",
+    "english": "Impact Piston",
+    "thai": "(0182)ลูกสูบกระแทก",
+    "image": "images/2900_64.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0183",
+    "name": "(0183)气缸",
+    "english": "Cylinder ",
+    "thai": "(0183)กระบอกลม",
+    "image": "images/2900_65.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0184",
+    "name": "(0184)双联齿",
+    "english": "Double teeth",
+    "thai": "(0184)เฟืองคู่",
+    "image": "images/2900_66.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0185",
+    "name": "(0185)大齿",
+    "english": "Final Gear ",
+    "thai": "(0185)เฟืองใหญ่",
+    "image": "images/2900_67.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0186",
+    "name": "(0186)芯轴套管",
+    "english": "Core shaft sleeve",
+    "thai": "(0186)ปลอกเพลาแกน",
+    "image": "images/2900_68.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0187",
+    "name": "(0187)芯轴",
+    "english": "Mandrel",
+    "thai": "(0187)เพลาแกน",
+    "image": "images/2900_69.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0188",
+    "name": "(0188)主手柄支座",
+    "english": "Main Handle Support",
+    "thai": "(0188)ฐานรองมือจับหลัก",
+    "image": "images/2900_70.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0189",
+    "name": "(0189)辅手柄支座",
+    "english": "Side Handle Support",
+    "thai": "(0189)ฐานรองมือจับรอง",
+    "image": "images/2900_71.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0190",
+    "name": "(0190)活塞销Φ14×61.5",
+    "english": "Piston Pin Φ14×61.5",
+    "thai": "(0190)พินลูกสูบ Φ14×61.5",
+    "image": "images/2900_72.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0191",
+    "name": "(0191)双联齿定位销Φ16×50",
+    "english": "Double teeth Pin Φ16×50",
+    "thai": "(0191)พินกำหนดตำแหน่งเฟืองคู่ Φ16×50",
+    "image": "images/2900_73.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0193",
+    "name": "(0193)螺丝钢套Ф11×Ф9×Ф7×15",
+    "english": "Screws Ring Ф11×Ф9×Ф7×15",
+    "thai": "(0193)ปลอกเหล็กสกรู Φ11×Φ9×Φ7×15",
+    "image": "images/2900_74.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "27.01.0194",
+    "name": "(0194)螺丝钢套Ф11×Ф9×Ф7×20",
+    "english": "Screws Ring Ф11×Ф9×Ф7×20",
+    "thai": "(0194)ปลอกเหล็กสกรู Φ11×Φ9×Φ7×20",
+    "image": "images/2900_75.jpeg",
+    "qty": 8,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "28.01.0084",
+    "name": "(0084)定子120V",
+    "english": "Stator 120V",
+    "thai": "(0084)สเตเตอร์ 120V",
+    "image": "images/2900_76.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "28.02.0088",
+    "name": "(0088)电枢120V",
+    "english": "Rotor 120V",
+    "thai": "(0088)อาร์เมเจอร์ 120V",
+    "image": "images/2900_77.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "28.08.0030",
+    "name": "(0030)风叶",
+    "english": "Fan",
+    "thai": "(0030)ใบพัดลม",
+    "image": "images/2900_78.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0151",
+    "name": "(0151)活塞",
+    "english": "Gas Press Piston ",
+    "thai": "(0151)ลูกสูบ",
+    "image": "images/2900_79.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0153-126",
+    "name": "(0153)轴承盖(7701U亚光蓝)",
+    "english": "Bearing Cover ",
+    "thai": "(0153)ฝาปิดตลับลูกปืน (สีน้ำเงินด้าน 7701U)",
+    "image": "images/2900_80.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0154",
+    "name": "(0154)油箱盖",
+    "english": "Oil Tank Cover ",
+    "thai": "(0154)ฝาปิดถังน้ำมัน",
+    "image": "images/2900_81.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0155-126",
+    "name": "(0155)左盖(7701U亚光蓝)",
+    "english": "Gear  Cover ",
+    "thai": "(0155)ฝาปิดด้านซ้าย (สีน้ำเงินด้าน 7701U)",
+    "image": "images/2900_82.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0156-126",
+    "name": "(0156)右盖(7701U亚光蓝)",
+    "english": "Bottom Cover",
+    "thai": "(0156)ฝาปิดด้านขวา (สีน้ำเงินด้าน 7701U)",
+    "image": "images/2900_83.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0157-127",
+    "name": "(0157)气缸座(9006U亚光银白)",
+    "english": "Cylinder Seat",
+    "thai": "(0157)ฐานกระบอกลม (สีเงินขาวด้าน 9006U)",
+    "image": "images/2900_84.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0158-127",
+    "name": "(0158)铝头(9006U亚光银白)",
+    "english": "Aluminum Head ",
+    "thai": "(0158)หัวอลูมิเนียม (สีเงินขาวด้าน 9006U)",
+    "image": "images/2900_85.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "29.01.0159-127",
+    "name": "(0159)机壳(9006U亚光银白)",
+    "english": "Crank Housing",
+    "thai": "(0159)ตัวเครื่อง (สีเงินขาวด้าน 9006U)",
+    "image": "images/2900_86.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.01.6003-TH",
+    "name": "K0022-SH2900-28HB(泰国版56407)天地盖",
+    "english": "carton",
+    "thai": "K0022-SH2900-28HB (รุ่นไทย 56407) กล่องฝาบน-ล่าง",
+    "image": "images/2900_87.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.04.6004-TH",
+    "name": "K0022-(泰国版通用)周期码标",
+    "english": "Cycle Code Label",
+    "thai": "K0022 (รุ่นไทยทั่วไป) ฉลากรหัสชุดการผลิต",
+    "image": "images/2900_88.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "2900",
+    "code": "30.04.6009-TH",
+    "name": "K0022-SH2900-28HB(泰国版56407)参数主标",
+    "english": "Parameter Label",
+    "thai": "K0022-SH2900-28HB (รุ่นไทย 56407) ฉลากพารามิเตอร์หลัก",
+    "image": "images/2900_89.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "2900",
+    "code": "30.04.6010-TH",
+    "name": "K0022-SH2900-28HB(泰国版56407)铝头正反减震标",
+    "english": "Aluminum Head Label",
+    "thai": "K0022-SH2900-28HB (รุ่นไทย 56407) ฉลากกันสั่นหัวอลูมิเนียม",
+    "image": "images/2900_90.jpeg",
+    "qty": 2,
+    "unit": "个"
+  },
+  {
+    "model": "2900",
+    "code": "30.04.6011-TH",
+    "name": "K0022-SH2900-28HB(泰国版56407)港口信息标",
+    "english": "Customer Information Label",
+    "thai": "K0022-SH2900-28HB (รุ่นไทย 56407) ฉลากข้อมูลท่าเรือ",
+    "image": "images/2900_91.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "2900",
+    "code": "30.04.0643",
+    "name": "K0022-SH2900-28HB/SH1800-28HB/G80BD夹头指示标",
+    "english": "Chuck indicator Label",
+    "thai": "K0022-SH2900-28HB/SH1800-28HB/G80BD ฉลากคำแนะนำหัวจับ",
+    "image": "images/2900_92.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "2900",
+    "code": "30.04.0415",
+    "name": "K0022-电缆线标",
+    "english": "Cable Label Sticker",
+    "thai": "K0022 ฉลากสายเคเบิล",
+    "image": "images/2900_93.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "2900",
+    "code": "30.05.6004-TH",
+    "name": "K0022-SH2900-28HB(泰国版56407)说明书",
+    "english": "Product Manual",
+    "thai": "K0022-SH2900-28HB (รุ่นไทย 56407) คู่มือการใช้งาน",
+    "image": "images/2900_94.jpeg",
+    "qty": 1,
+    "unit": "本"
+  },
+  {
+    "model": "2900",
+    "code": "30.06.6000-TH",
+    "name": "K0022-(泰国版)BAUER HERCULES卡片",
+    "english": "Hang Tag",
+    "thai": "K0022 (รุ่นไทย) การ์ด BAUER HERCULES",
+    "image": "images/2900_95.jpeg",
+    "qty": 1,
+    "unit": "张"
+  },
+  {
+    "model": "2900",
+    "code": "30.06.6001-TH",
+    "name": "K0022-SH2900-28HB(泰国版56407)夹头操作吊卡1",
+    "english": "Hang Tag",
+    "thai": "K0022-SH2900-28HB (รุ่นไทย 56407) ป้ายแขวนคู่มือหัวจับ 1",
+    "image": "images/2900_96.jpeg",
+    "qty": 1,
+    "unit": "张"
+  },
+  {
+    "model": "2900",
+    "code": "30.06.6002-TH",
+    "name": "K0022-SH2900-28HB/SH1800-28HB(泰国版)吊卡2",
+    "english": "Hang Tag",
+    "thai": "K0022-SH2900-28HB/SH1800-28HB (รุ่นไทย) ป้ายแขวน 2",
+    "image": "images/2900_97.jpeg",
+    "qty": 1,
+    "unit": "张"
+  },
+  {
+    "model": "2900",
+    "code": "30.07.0014",
+    "name": "K0022-SH2900-28HB泡沫盒",
+    "english": "foam box",
+    "thai": "K0022-SH2900-28HB กล่องโฟม",
+    "image": "images/2900_98.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.09.0057",
+    "name": "说明书袋(环保字)(K0022专用)24×35",
+    "english": "instruction bag",
+    "thai": "ถุงใส่คู่มือ (ข้อความรักษ์โลก) (ใช้เฉพาะ K0022) 24×35",
+    "image": "images/2900_99.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.09.0068",
+    "name": "SH2900-28HB整机袋(70*50)(K0022专用)",
+    "english": "Complet bag",
+    "thai": "ถุงบรรจุเครื่องทั้งชุด SH2900-28HB (70×50) (ใช้เฉพาะ K0022)",
+    "image": "images/2900_100.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.09.0090",
+    "name": "头套保护袋32x60CM",
+    "english": "protecting bag",
+    "thai": "ถุงปกป้องปลอกหัว 32×60 ซม.",
+    "image": "",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.11.0004",
+    "name": "捆扎带(4x250)(白色)",
+    "english": "cable tie",
+    "thai": "สายรัด (4×250) สีขาว",
+    "image": "images/2900_102.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.12.0004",
+    "name": "60g油脂油管(CYP-B199A润滑脂)",
+    "english": "Grease Tube",
+    "thai": "หลอดจ่ายจารบี 60 กรัม (จารบีหล่อลื่น CYP-B199A)",
+    "image": "images/2900_103.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.12.0021",
+    "name": "7#子母扣",
+    "english": "Tagging Tie",
+    "thai": "ตัวล็อกแม่ลูกเบอร์ 7",
+    "image": "",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "30.12.0022",
+    "name": "毛毡布40×30cm(无字)",
+    "english": "felt fabric",
+    "thai": "ผ้าสักหลาด 40×30 ซม. (ไม่มีข้อความ)",
+    "image": "images/2900_105.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.01.0140",
+    "name": "(0140)氟O形圈Ф39×Ф5",
+    "english": "Fluorin O RingФ39×Ф5",
+    "thai": "(0140)โอริงฟลูออโรคาร์บอน Φ39×Φ5",
+    "image": "images/2900_106.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.01.0141",
+    "name": "(0141)氟O形圈Ф53.8×Ф6",
+    "english": "Fluorin O RingФ53.8xФ6",
+    "thai": "(0141)โอริงฟลูออโรคาร์บอน Φ53.8×Φ6",
+    "image": "images/2900_107.png",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.01.0142",
+    "name": "(0142)减震圈Ф41.5×Ф13",
+    "english": "Shock Absorption Ferrule Φ41.5×Φ13 ",
+    "thai": "(0142)แหวนกันสั่น Φ41.5×Φ13",
+    "image": "images/2900_108.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.01.0144",
+    "name": "(0144)O形圈Ф77×Ф2.9",
+    "english": "O Ring Φ77×Φ2.9",
+    "thai": "(0144)โอริง Φ77×Φ2.9",
+    "image": "images/2900_109.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.01.0145",
+    "name": "(0145)O形圈Ф100×3.1",
+    "english": "O RingФ100x3.1",
+    "thai": "(0145)โอริง Φ100×3.1",
+    "image": "images/2900_110.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.01.0156",
+    "name": "(0156)O形圈Ф87×Ф3.5",
+    "english": "O RingΦ87×Φ3.5",
+    "thai": "(0156)โอริง Φ87×Φ3.5",
+    "image": "images/2900_111.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.02.0115",
+    "name": "(0115)锁紧圈",
+    "english": "Lock ring",
+    "thai": "(0115)แหวนล็อก",
+    "image": "images/2900_112.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.02.0116",
+    "name": "(0116)止动块",
+    "english": "Stop Block",
+    "thai": "(0116)บล็อกหยุด",
+    "image": "images/2900_113.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.02.0118",
+    "name": "(0118)橡胶柱",
+    "english": "Rubber column",
+    "thai": "(0118)แท่งยาง",
+    "image": "images/2900_114.jpeg",
+    "qty": 6,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.02.0128",
+    "name": "(0128)泄气阀",
+    "english": "Deflating Valve",
+    "thai": "(0128)วาล์วระบายลม",
+    "image": "images/2900_115.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.02.0129",
+    "name": "(0129)电缆线护套",
+    "english": "Cable Guard",
+    "thai": "(0129)ปลอกหุ้มสายเคเบิล",
+    "image": "images/2900_116.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "31.02.0130",
+    "name": "(0130)定子引线护套",
+    "english": "Wire Cover",
+    "thai": "(0130)ปลอกหุ้มสายนำสเตเตอร์",
+    "image": "images/2900_117.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "34.01.0008",
+    "name": "(0008)纸垫",
+    "english": "Paper Washer",
+    "thai": "(0008)แผ่นรองกระดาษ",
+    "image": "images/2900_118.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "34.01.0021",
+    "name": "(0021)羊毛毡1",
+    "english": "Felt block 1.",
+    "thai": "(0021)ผ้าสักหลาดขนแกะ 1",
+    "image": "images/2900_119.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "34.01.0022",
+    "name": "(0022)羊毛毡2",
+    "english": "Felt block 2",
+    "thai": "(0022)ผ้าสักหลาดขนแกะ 2",
+    "image": "images/2900_120.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "34.02.0013",
+    "name": "(0013)CYP-B205-0润滑脂",
+    "english": "Grease CYP-B205-0",
+    "thai": "(0013)จารบีหล่อลื่น CYP-B205-0",
+    "image": "images/2900_121.jpeg",
+    "qty": 0.25,
+    "unit": "KG"
+  },
+  {
+    "model": "2900",
+    "code": "34.02.0015",
+    "name": "CYP-B054-2锂基脂",
+    "english": "lithium grease CYP-B054-2",
+    "thai": "จารบีเบสลิเธียม CYP-B054-2",
+    "image": "images/2900_122.jpeg",
+    "qty": 0.09,
+    "unit": "KG"
+  },
+  {
+    "model": "2900",
+    "code": "36.03.0023",
+    "name": "(0023)刷架组件",
+    "english": "Carbon Brush bracket Subassembly",
+    "thai": "(0023)ชุดตัวยึดแปรงคาร์บอน",
+    "image": "images/2900_123.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "2900",
+    "code": "36.03.0022",
+    "name": "SH2900-28HB\n支座组件",
+    "english": "SH2900-28HB\nSupport assembly",
+    "thai": "SH2900-28HB ชุดฐานรอง",
+    "image": "images/2900_125.jpeg",
+    "qty": 2,
+    "unit": "套"
+  },
+  {
+    "model": "2900",
+    "code": "36.06.0007TH",
+    "name": "SH2900-28HB-TH头套组件",
+    "english": "SH2900-28HB-TH Front cover assembly",
+    "thai": "SH2900-28HB-TH ชุดปลอกหัว",
+    "image": "images/2900_126.jpeg",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "2900",
+    "code": "36.06.0008TH",
+    "name": "SH2900-28HB-TH 机壳组件",
+    "english": "SH2900-28HB-TH  Housing Assembly",
+    "thai": "SH2900-28HB-TH ชุดตัวเครื่อง",
+    "image": "images/2900_127.jpeg",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "1100",
+    "code": "21.01.0007",
+    "name": "M5×12内六角螺钉",
+    "english": "Hex. Socket Screw  M5×12",
+    "thai": "สกรูหกเหลี่ยมรูใน M5×12",
+    "image": "images/1100_2.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.02.0040",
+    "name": "ST3.5×12十字盘头螺钉",
+    "english": "ST3.5×12Cross recessed pan head tapping screws.",
+    "thai": "สกรูหัวจานแฉก ST3.5×12",
+    "image": "images/1100_3.jpeg",
+    "qty": 5,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.03.0007",
+    "name": "M6×50(Φ18)十字盘头螺钉",
+    "english": "Cross recessed pan head screws M6×50(Φ18)",
+    "thai": "สกรูหัวจานแฉก M6×50(Φ18)",
+    "image": "images/1100_4.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.03.0009",
+    "name": "ST3.5×16十字盘头螺钉",
+    "english": "Tapping screw ST3.5X16",
+    "thai": "สกรูหัวจานแฉก ST3.5×16",
+    "image": "images/1100_5.jpeg",
+    "qty": 3,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.06.0015",
+    "name": "M8×110六角螺栓",
+    "english": "Hexagon head bolt M8×110",
+    "thai": "น็อตหกเหลี่ยม M8×110",
+    "image": "images/1100_6.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.07.0006",
+    "name": "M8×6.4辅手柄螺母",
+    "english": "Nut M8(Thickness 6.4mm)",
+    "thai": "น็อตมือจับรอง M8×6.4",
+    "image": "images/1100_7.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.11.0007",
+    "name": "Φ41孔用弹性挡圈(非标)",
+    "english": "Φ41 Retaining Ring",
+    "thai": "แหวนกดสปริงสำหรับรู Φ41(ไม่ใช่มาตรฐาน)",
+    "image": "images/1100_8.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.11.0009",
+    "name": "Φ42孔用弹性挡圈(反向)",
+    "english": "Φ42 Retaining Ring",
+    "thai": "แหวนกดสปริงสำหรับรู Φ42(ทิศทางกลับ)",
+    "image": "images/1100_9.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.12.0003",
+    "name": "Φ10轴用弹性挡圈",
+    "english": "Φ10 Retaining Ring",
+    "thai": "แหวนกดสปริงสำหรับเพลา Φ10",
+    "image": "images/1100_10.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.13.0005",
+    "name": "Ф27×Ф2轴用钢丝挡圈",
+    "english": "Steel Wire Block Ring Ф27xФ2",
+    "thai": "แหวนลวดสปริงสำหรับเพลา Ф27×Ф2",
+    "image": "images/1100_11.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.14.0003",
+    "name": "SΦ6.5钢珠",
+    "english": "Φ6.5 Steel Ball",
+    "thai": "ลูกปืนเหล็ก SΦ6.5",
+    "image": "images/1100_12.jpeg",
+    "qty": 8,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.17.0005",
+    "name": "支撑环弹簧Ф2.6×55×83",
+    "english": "Support ring spring Ф2.6x55x83",
+    "thai": "สปริงแหวนรองรับ Ф2.6×55×83",
+    "image": "images/1100_13.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.17.0006",
+    "name": "操纵套筒弹簧Ф2.5×50×130",
+    "english": "Control Sleeve Spring Φ2.5x50x130",
+    "thai": "สปริงปลอกควบคุม Ф2.5×50×130",
+    "image": "images/1100_14.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.17.0007",
+    "name": "螺旋弹簧",
+    "english": "Coil spring",
+    "thai": "สปริงเกลียว",
+    "image": "images/1100_15.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.17.0008",
+    "name": "减震弹簧Ф2×Ф14×Ф20×75",
+    "english": "Shock Absorption Spring Φ2xΦ14xΦ20x75",
+    "thai": "สปริงกันสั่น Ф2×Ф14×Ф20×75",
+    "image": "images/1100_16.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.18.0014",
+    "name": "ST5.5×25梅花盘头宽牙螺钉",
+    "english": "ST5.5×25 Wide tooth Torx head self-tapping screw",
+    "thai": "สกรูหัวจานรูปดอกไม้เกลียวหยาบ ST5.5×25",
+    "image": "images/1100_17.jpeg",
+    "qty": 10,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.18.0019",
+    "name": "ST4.2×22梅花盘头宽牙螺钉",
+    "english": "ST4.2×22 Wide tooth Torx head self-tapping screw",
+    "thai": "สกรูหัวจานรูปดอกไม้เกลียวหยาบ ST4.2×22",
+    "image": "images/1100_18.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.18.0020",
+    "name": "ST5.5×45×30梅花盘头宽牙螺钉",
+    "english": "ST5.5×45×30 Wide tooth  Torx head self-tapping screw",
+    "thai": "สกรูหัวจานรูปดอกไม้เกลียวหยาบ ST5.5×45×30",
+    "image": "images/1100_19.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.18.0032",
+    "name": "ST4.2×18梅花头盘头宽牙螺钉",
+    "english": "ST4.2×18 Wide tooth Torx head self-tapping screw",
+    "thai": "สกรูหัวจานรูปดอกไม้เกลียวหยาบ ST4.2×18",
+    "image": "images/1100_20.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.19.0013",
+    "name": "M8×30内六角螺钉(12.9级))(二组合)",
+    "english": "Hex. Socket screw M8×30(12.9)Ass’y",
+    "thai": "สกรูหกเหลี่ยมรูใน M8×30(เกรด12.9)(ชุด 2 ชิ้น)",
+    "image": "images/1100_21.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "21.19.0014",
+    "name": "ST6.3×32多功能螺钉(三组合)",
+    "english": "Tapping screw ST6.3X32 (triplet)Ass'y",
+    "thai": "สกรูอเนกประสงค์ ST6.3×32(ชุด 3 ชิ้น)",
+    "image": "images/1100_22.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "22.01.0019",
+    "name": "(0019)支撑片",
+    "english": "Support patch",
+    "thai": "(0019)แผ่นรองรับ",
+    "image": "images/1100_23.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "22.01.0020",
+    "name": "(0020)转换盘",
+    "english": "Change plate",
+    "thai": "(0020)จานเปลี่ยน",
+    "image": "images/1100_24.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "22.01.0021",
+    "name": "(0021)支撑环",
+    "english": "Support ring",
+    "thai": "(0021)แหวนรองรับ",
+    "image": "images/1100_25.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "22.01.0024",
+    "name": "(0024)固定带",
+    "english": "Fixed belt",
+    "thai": "(0024)สายรัดยึด",
+    "image": "images/1100_26.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "22.01.0025",
+    "name": "(0025)径向密封环组件",
+    "english": "Seal ring subassembly",
+    "thai": "(0025)ชุดแหวนซีลรัศมี",
+    "image": "images/1100_27.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "22.01.0028",
+    "name": "(0028)壳盖",
+    "english": "Shell cover",
+    "thai": "(0028)ฝาครอบตัวเรือน",
+    "image": "images/1100_28.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "22.01.0038",
+    "name": "(0038)轴向轴承片",
+    "english": "Boring washer",
+    "thai": "(0038)แผ่นตลับลูกปืนแนวแกน",
+    "image": "images/1100_29.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "23.01.0020",
+    "name": "(0020)6200LUVCW轴承(G0011)",
+    "english": "Ball Bearing 6200 LUV CW ",
+    "thai": "(0020)ตลับลูกปืน 6200LUVCW(G0011)",
+    "image": "images/1100_30.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "23.02.0009",
+    "name": "(0009)NK20×28×13滚针轴承(G0009)",
+    "english": "Needle Bearing NK20×28×13",
+    "thai": "(0009)ตลับลูกปืนเข็ม NK20×28×13(G0009)",
+    "image": "images/1100_31.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "23.02.0050",
+    "name": "(0050)滚针轴承RMAO16x22x16(G0009)",
+    "english": "Needle Bearing RMAO16×22×16",
+    "thai": "(0050)ตลับลูกปืนเข็ม RMAO16x22x16(G0009)",
+    "image": "images/1100_32.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "23.02.0051",
+    "name": "(0051)滚针套圈",
+    "english": "Needle Sleeve",
+    "thai": "(0051)แหวนรองลูกปืนเข็ม",
+    "image": "images/1100_33.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "24.01.0054",
+    "name": "(0054)开关FA7-12C-2116(佳奔双印)",
+    "english": "Switch",
+    "thai": "(0054)สวิตช์ FA7-12C-2116(Jiabeng Shuangyin)",
+    "image": "images/1100_34.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "24.02.0002",
+    "name": "(0002)调速器(110-120V)",
+    "english": "Speed Adjuster 120V",
+    "thai": "(0002)ตัวควบคุมความเร็ว(110-120V)",
+    "image": "images/1100_35.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "24.03.0011",
+    "name": "(0011)碳刷S16-6.5×17×26-120V整机",
+    "english": "Carbon Brush 120V",
+    "thai": "(0011)แปรงคาร์บอน S16-6.5×17×26-120V สำหรับเครื่องทั้งชุด",
+    "image": "images/1100_36.jpeg",
+    "qty": 1,
+    "unit": "副"
+  },
+  {
+    "model": "1100",
+    "code": "24.03.0013",
+    "name": "(0013)碳刷S16-6.5×17×26-120V附件",
+    "english": "Carbon Brush 120V",
+    "thai": "(0013)แปรงคาร์บอน S16-6.5×17×26-120V อะไหล่เสริม",
+    "image": "images/1100_37.jpeg",
+    "qty": 2,
+    "unit": "副"
+  },
+  {
+    "model": "1100",
+    "code": "24.04.0006",
+    "name": "(0006)碳刷架(配6.5)",
+    "english": "Brush holder",
+    "thai": "(0006)ขาตั้งแปรงคาร์บอน(รองรับขนาด6.5)",
+    "image": "images/1100_38.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "24.06.0003",
+    "name": "(0003)金属触片",
+    "english": "Copper contact plate",
+    "thai": "(0003)แผ่นสัมผัสโลหะ",
+    "image": "images/1100_39.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "24.06.0004",
+    "name": "(0004)金属插脚",
+    "english": "Copper insert",
+    "thai": "(0004)ขาเสียบโลหะ",
+    "image": "images/1100_40.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "24.06.0023",
+    "name": "6.3mm接插件(整卷)",
+    "english": "6.3mm Connector",
+    "thai": "ขั้วต่อ 6.3mm(ม้วนเต็ม)",
+    "image": "images/1100_41.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "24.06.0024",
+    "name": "6.3mm接插件护套",
+    "english": "6.3mm Connector Cover",
+    "thai": "ปลอกหุ้มขั้วต่อ 6.3mm",
+    "image": "images/1100_42.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "25.02.0018DL19",
+    "name": "温岭美式AD-102Ф9.0-SJ2C×14AWG×3.1M",
+    "english": "Power Cord",
+    "thai": "สายไฟสไตล์อเมริกัน Wenling AD-102Ф9.0-SJ2C×14AWG×3.1M",
+    "image": "images/1100_43.jpeg",
+    "qty": 1,
+    "unit": "根"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0101-19",
+    "name": "(0101)防护衬套(9005黑色)",
+    "english": "Flex Sheath",
+    "thai": "(0101)ปลอกบังกัน(สีดำ 9005)",
+    "image": "images/1100_44.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0102-19",
+    "name": "(0102)止动套筒(9005黑色)",
+    "english": "Move limited ring",
+    "thai": "(0102)ปลอกหยุด(สีดำ 9005)",
+    "image": "images/1100_45.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0103",
+    "name": "(0103)操纵盘",
+    "english": "Control plate",
+    "thai": "(0103)จานควบคุม",
+    "image": "images/1100_46.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0104",
+    "name": "(0104)定距套筒",
+    "english": "Fixed Distance Sleeve",
+    "thai": "(0104)ปลอกกำหนดระยะ",
+    "image": "images/1100_47.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0106",
+    "name": "(0106)活塞",
+    "english": "Gas press Piston",
+    "thai": "(0106)ลูกสูบ",
+    "image": "images/1100_48.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0107",
+    "name": "(0107)连杆",
+    "english": "Connecting Rod ",
+    "thai": "(0107)แท่งเชื่อมต่อ",
+    "image": "images/1100_49.png",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0108",
+    "name": "(0108)指示灯",
+    "english": "Indicator",
+    "thai": "(0108)ไฟแสดงสถานะ",
+    "image": "images/1100_50.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0109",
+    "name": "(0109)电缆线护套",
+    "english": "Cable Guard",
+    "thai": "(0109)ปลอกหุ้มสายเคเบิล",
+    "image": "images/1100_51.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0110",
+    "name": "(0110)保护盖",
+    "english": "Protected cover",
+    "thai": "(0110)ฝาป้องกัน",
+    "image": "images/1100_52.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0115-19",
+    "name": "(0115)旋钮(9005黑色)",
+    "english": "Function Knob",
+    "thai": "(0115)ปุ่มหมุน(สีดำ 9005)",
+    "image": "images/1100_53.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0116-19",
+    "name": "(0116)旋钮盖(9005黑色)",
+    "english": "Function Knob cover",
+    "thai": "(0116)ฝาปิดปุ่มหมุน(สีดำ 9005)",
+    "image": "images/1100_54.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0327",
+    "name": "(0327)电缆线压板",
+    "english": "Cord Clip",
+    "thai": "(0327)แผ่นกดสายเคเบิล",
+    "image": "images/1100_55.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0343-121",
+    "name": "(0343)机壳(7701C信科蓝)",
+    "english": "Motor Housing ",
+    "thai": "(0343)ตัวเครื่อง(สีน้ำเงิน Xinke 7701C)",
+    "image": "images/1100_56.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0344-19",
+    "name": "(0344)轴承盖(9005黑色)",
+    "english": "Bearing Cover",
+    "thai": "(0344)ฝาปิดตลับลูกปืน(สีดำ 9005)",
+    "image": "images/1100_57.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0345-19",
+    "name": "(0345)手柄座(9005黑色)",
+    "english": "Main Handle Base",
+    "thai": "(0345)ฐานมือจับ(สีดำ 9005)",
+    "image": "images/1100_58.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0346",
+    "name": "(0346)弹簧架",
+    "english": "Spring Rack",
+    "thai": "(0346)ขาตั้งสปริง",
+    "image": "images/1100_59.png",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0347",
+    "name": "(0347)碳刷支架(配6.5)",
+    "english": "Carbon Brush bracket",
+    "thai": "(0347)ขาตั้งแปรงคาร์บอน(รองรับขนาด6.5)",
+    "image": "images/1100_60.png",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0348K0022B-121",
+    "name": "(0348)覆盖顶罩(7701C信科蓝)(HERCULES字凸出)",
+    "english": "Cover",
+    "thai": "(0348)ฝาครอบด้านบน(สีน้ำเงิน Xinke 7701C)(ตัวอักษร HERCULES ยื่นออกมา)",
+    "image": "images/1100_61.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0349-19",
+    "name": "(0349)装饰盖(9005黑色)",
+    "english": "Adorn Cover",
+    "thai": "(0349)ฝาปิดตกแต่ง(สีดำ 9005)",
+    "image": "images/1100_62.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0350",
+    "name": "(0350)定子压块",
+    "english": "Stator Block",
+    "thai": "(0350)บล็อกกดสเตเตอร์",
+    "image": "images/1100_63.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0351-121",
+    "name": "(0351)主手柄(7701C信科蓝)(包胶黑色)",
+    "english": "Main Handle",
+    "thai": "(0351)มือจับหลัก(สีน้ำเงิน Xinke 7701C)(หุ้มยางสีดำ)",
+    "image": "images/1100_64.png",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0352-121",
+    "name": "(0352)主手柄盖(7701C信科蓝)(包胶黑色)",
+    "english": "Main Handle Cover",
+    "thai": "(0352)ฝาปิดมือจับหลัก(สีน้ำเงิน Xinke 7701C)(หุ้มยางสีดำ)",
+    "image": "images/1100_65.png",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0430-19",
+    "name": "(0430)辅手柄(9005黑色)",
+    "english": "Side Handle",
+    "thai": "(0430)มือจับรอง(สีดำ 9005)",
+    "image": "images/1100_66.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0431-19",
+    "name": "(0431)缺口圆盘(9005黑色)",
+    "english": "Disk with gap",
+    "thai": "(0431)จานกลมร่อง(สีดำ 9005)",
+    "image": "images/1100_67.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "26.01.0432-19",
+    "name": "(0432)夹块(9005黑色)",
+    "english": "Clamping",
+    "thai": "(0432)บล็อกหนีบ(สีดำ 9005)",
+    "image": "images/1100_68.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0050",
+    "name": "(0050)偏心齿轮(Φ16)",
+    "english": "Eccentric gear",
+    "thai": "(0050)เฟืองออฟเซต(Φ16)",
+    "image": "images/1100_69.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0051",
+    "name": "(0051)止动套圈",
+    "english": "Move limited ring",
+    "thai": "(0051)แหวนหยุด",
+    "image": "images/1100_70.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0052",
+    "name": "(0052)接头凸缘",
+    "english": "Flange cover",
+    "thai": "(0052)หน้าแปลนข้อต่อ",
+    "image": "images/1100_71.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0053",
+    "name": "(0053)撞击销",
+    "english": "Impact Pin",
+    "thai": "(0053)พินกระแทก",
+    "image": "images/1100_72.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0054",
+    "name": "(0054)冲击块",
+    "english": "Impact block",
+    "thai": "(0054)บล็อกกระแทก",
+    "image": "images/1100_73.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0055",
+    "name": "(0055)气缸",
+    "english": "Cylinder",
+    "thai": "(0055)กระบอกลม",
+    "image": "images/1100_74.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0059",
+    "name": "(0059)阻塞体",
+    "english": "Insert block",
+    "thai": "(0059)ตัวอุดกั้น",
+    "image": "images/1100_75.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0060",
+    "name": "(0060)锤杆套",
+    "english": "Hammer Staff Sheath",
+    "thai": "(0060)ปลอกแท่งค้อน",
+    "image": "images/1100_76.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0061",
+    "name": "(0061)轴承套筒",
+    "english": "Bearing Sleeve",
+    "thai": "(0061)ปลอกตลับลูกปืน",
+    "image": "images/1100_77.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0062",
+    "name": "(0062)操纵套筒",
+    "english": "Control Sleeve",
+    "thai": "(0062)ปลอกควบคุม",
+    "image": "images/1100_78.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0063",
+    "name": "(0063)活塞销Φ10×38",
+    "english": "Piston Pin Φ10×38",
+    "thai": "(0063)พินลูกสูบ Φ10×38",
+    "image": "images/1100_79.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "27.01.0251",
+    "name": "(0251)手柄压块",
+    "english": "Main Handle Platen",
+    "thai": "(0251)บล็อกกดมือจับ",
+    "image": "images/1100_80.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "28.01.0088",
+    "name": "(0088)定子120V",
+    "english": "Stator 120V",
+    "thai": "(0088)สเตเตอร์ 120V",
+    "image": "images/1100_81.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "28.02.0092",
+    "name": "(0092)电枢120V",
+    "english": "Rotor 120V",
+    "thai": "(0092)อาร์เมเจอร์ 120V",
+    "image": "images/1100_82.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "29.01.0074",
+    "name": "(0074)撞击体壳(Φ30配滚针)",
+    "english": "Crank housing",
+    "thai": "(0074)ตัวเรือนชุดกระแทก(Φ30 ใช้คู่กับลูกปืนเข็ม)",
+    "image": "images/1100_83.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "29.01.0259",
+    "name": "(0259)油箱盖",
+    "english": "Oil Tank Cover",
+    "thai": "(0259)ฝาปิดถังน้ำมัน",
+    "image": "images/1100_84.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "29.01.0261",
+    "name": "(0261)螺纹环",
+    "english": "Screw ring",
+    "thai": "(0261)แหวนเกลียว",
+    "image": "images/1100_85.png",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "30.01.6011-TH",
+    "name": "K0022-SH1100-18MA(泰国版56843)外箱",
+    "english": "carton",
+    "thai": "K0022-SH1100-18MA(รุ่นไทย 56843)ลังนอก",
+    "image": "images/1100_86.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "30.01.6012-TH",
+    "name": "K0022-SH1100-18MA(泰国版56843)彩盒",
+    "english": "graphic carton",
+    "thai": "K0022-SH1100-18MA(รุ่นไทย 56843)กล่องสี",
+    "image": "images/1100_87.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "30.03.0715K0022B-121",
+    "name": "256#吹塑盒(一级料)(SIMKO款)(箱体7701C信科蓝,箱扣镀白锌,手柄黑色)(箱体箱扣HERCULES字凸出)",
+    "english": "BMC",
+    "thai": "กล่องเป่าพลาสติก 256#(วัตถุดิบเกรดหนึ่ง)(รุ่น SIMKO)",
+    "image": "images/1100_88.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "30.04.6004-TH",
+    "name": "K0022-(泰国版通用)周期码标",
+    "english": "Cycle Code Label",
+    "thai": "K0022(รุ่นไทยทั่วไป)ฉลากรหัสชุดการผลิต",
+    "image": "images/1100_89.png",
+    "qty": 2,
+    "unit": "个"
+  },
+  {
+    "model": "1100",
+    "code": "30.04.0415",
+    "name": "K0022-电缆线标",
+    "english": "Cable Label Sticker",
+    "thai": "K0022 ฉลากสายเคเบิล",
+    "image": "images/1100_90.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "1100",
+    "code": "30.04.6021-TH",
+    "name": "K0022-SH1100-18MA(泰国版56843)参数主标",
+    "english": "Parameter Label",
+    "thai": "K0022-SH1100-18MA(รุ่นไทย 56843)ฉลากพารามิเตอร์หลัก",
+    "image": "images/1100_91.png",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "1100",
+    "code": "30.05.6008-TH",
+    "name": "K0022-SH1100-18MA(泰国版56843)说明书",
+    "english": "Product Manual",
+    "thai": "K0022-SH1100-18MA(รุ่นไทย 56843)คู่มือการใช้งาน",
+    "image": "images/1100_92.jpeg",
+    "qty": 1,
+    "unit": "本"
+  },
+  {
+    "model": "1100",
+    "code": "30.06.6000-TH",
+    "name": "K0022-(泰国版)BAUER HERCULES卡片",
+    "english": "Hang Tag",
+    "thai": "K0022(รุ่นไทย)การ์ด BAUER HERCULES",
+    "image": "images/1100_93.jpeg",
+    "qty": 1,
+    "unit": "张"
+  },
+  {
+    "model": "1100",
+    "code": "30.09.0004",
+    "name": "65整机袋（43.5x78）(K0022专用)",
+    "english": "Complet bag",
+    "thai": "ถุงบรรจุเครื่องทั้งชุด 65(43.5x78)(ใช้เฉพาะ K0022)",
+    "image": "images/1100_94.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "30.09.0057",
+    "name": "说明书袋(环保字)(K0022专用)24×35",
+    "english": "instruction bag",
+    "thai": "ถุงใส่คู่มือ(ข้อความรักษ์โลก)(ใช้เฉพาะ K0022)24×35",
+    "image": "images/1100_95.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "30.12.0004",
+    "name": "60g油脂油管(CYP-B199A润滑脂)",
+    "english": "Grease tube",
+    "thai": "หลอดจ่ายจารบี 60g(จารบีหล่อลื่น CYP-B199A)",
+    "image": "images/1100_96.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0050",
+    "name": "(0050)-O形圈Φ63.5×Φ2.6",
+    "english": "O-RingΦ63.5×Φ2.6",
+    "thai": "(0050)โอริง Φ63.5×Φ2.6",
+    "image": "images/1100_97.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0051",
+    "name": "(0051)氟O形圈Φ31.6×Φ2.5",
+    "english": "Fluorin O Ring Φ31.6×Φ2.5",
+    "thai": "(0051)โอริงฟลูออโรคาร์บอน Φ31.6×Φ2.5",
+    "image": "images/1100_98.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0052",
+    "name": "(0052)骨架密封圈Φ32×Φ42×7",
+    "english": "Oil Seal Ring Φ32×Φ42×7",
+    "thai": "(0052)ซีลโครงกระดูก Φ32×Φ42×7",
+    "image": "images/1100_99.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0053",
+    "name": "(0053)-O形圈Φ22×Φ11",
+    "english": "O Ring Φ22×Φ11",
+    "thai": "(0053)โอริง Φ22×Φ11",
+    "image": "images/1100_100.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0054",
+    "name": "(0054)-O形圈Φ35×Φ3",
+    "english": "O-RingΦ35×Φ3",
+    "thai": "(0054)โอริง Φ35×Φ3",
+    "image": "images/1100_101.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0055",
+    "name": "(0055)氟O形圈Φ30.4×Φ5",
+    "english": "Fluorin O RingΦ30.4×Φ5",
+    "thai": "(0055)โอริงฟลูออโรคาร์บอน Φ30.4×Φ5",
+    "image": "images/1100_102.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0056",
+    "name": "(0056)-O形圈Φ79×Φ2.8",
+    "english": "O-RingΦ79×Φ2.8",
+    "thai": "(0056)โอริง Φ79×Φ2.8",
+    "image": "images/1100_103.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0057",
+    "name": "(0057)-O形圈Φ29xΦ2.6",
+    "english": "O-Ring Φ29xΦ2.6",
+    "thai": "(0057)โอริง Φ29xΦ2.6",
+    "image": "images/1100_104.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.01.0059",
+    "name": "(0059)骨架密封圈Φ20.5×Φ31×6",
+    "english": "Oil Seal RingΦ20.5×Φ31×6",
+    "thai": "(0059)ซีลโครงกระดูก Φ20.5×Φ31×6",
+    "image": "images/1100_105.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.02.0048",
+    "name": "(0048)锤杆护套",
+    "english": "Hammer rod protector",
+    "thai": "(0048)ปลอกหุ้มแท่งค้อน",
+    "image": "images/1100_106.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.02.0049",
+    "name": "(0049)减震环",
+    "english": "Shock absorption ring",
+    "thai": "(0049)แหวนกันสั่น",
+    "image": "images/1100_107.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.02.0051",
+    "name": "(0051)减震套圈Φ10.8×Φ18×6",
+    "english": "Shock Absorption Ferrule Φ10.8×Φ18×6",
+    "thai": "(0051)แหวนกันสั่น Φ10.8×Φ18×6",
+    "image": "images/1100_108.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.02.0164",
+    "name": "(0164)橡胶垫片Φ31×Φ25×2.2",
+    "english": "Rubber Washer Ф31×Ф25×2.2",
+    "thai": "(0164)แผ่นรองยาง Φ31×Φ25×2.2",
+    "image": "images/1100_109.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "31.02.0166-19",
+    "name": "(0166)减震护套(9005黑色)",
+    "english": "Shock Absorption Jacket",
+    "thai": "(0166)ปลอกกันสั่น(สีดำ 9005)",
+    "image": "images/1100_110.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "34.01.0005",
+    "name": "(0005)毡环",
+    "english": "Felt washer",
+    "thai": "(0005)แหวนผ้าสักหลาด",
+    "image": "images/1100_111.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1100",
+    "code": "34.02.0007",
+    "name": "(0007)CYP-B199A润滑脂",
+    "english": "Grease CYP-B199A",
+    "thai": "(0007)จารบีหล่อลื่น CYP-B199A",
+    "image": "images/1100_112.jpeg",
+    "qty": 0.1,
+    "unit": "KG"
+  },
+  {
+    "model": "1100",
+    "code": "36.06.0003TH",
+    "name": "SH1100-18MA-TH头套组件",
+    "english": "SH1100-18MA-TH \nFlange cover assembly",
+    "thai": "SH1100-18MA-TH ชุดปลอกหัว",
+    "image": "",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "1100",
+    "code": "36.06.0004TH",
+    "name": "SH1100-18MA-TH刷架组件",
+    "english": "SH1100-18MA-TH\n Brush Holder assembly",
+    "thai": "SH1100-18MA-TH ชุดขาตั้งแปรงคาร์บอน",
+    "image": "images/1100_115.jpeg",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "1100",
+    "code": "36.06.0022TH",
+    "name": "SH1100-18MA-TH旋钮组件",
+    "english": "SH1100-18MA-TH\n Function Knob assembly",
+    "thai": "SH1100-18MA-TH ชุดปุ่มหมุน",
+    "image": "images/1100_116.jpeg",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "1100",
+    "code": "36.06.0023TH",
+    "name": "SH1100-18MA-TH壳盖组件",
+    "english": "SH1100-18MA-TH\nShell cover assembly",
+    "thai": "SH1100-18MA-TH ชุดฝาครอบตัวเรือน",
+    "image": "images/1100_117.jpeg",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "1800",
+    "code": "21.01.0017",
+    "name": "M6×15内六角螺钉(12.9级)",
+    "english": "Hex .Socket Screw M6×15(12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M6×15(เกรด12.9)",
+    "image": "images/1800_2.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.01.0019",
+    "name": "M6×20内六角螺钉",
+    "english": "Hex .Socket Screw M6×20",
+    "thai": "สกรูหกเหลี่ยมรูใน M6×20",
+    "image": "images/1800_3.jpeg",
+    "qty": 12,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.01.0022",
+    "name": "M6×25内六角螺钉",
+    "english": "Hex .Socket ScrewM6x25",
+    "thai": "สกรูหกเหลี่ยมรูใน M6×25",
+    "image": "images/1800_4.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.01.0037",
+    "name": "M8×30内六角螺钉(12.9级)",
+    "english": "Hex .Socket Screw M8×30（12.9）",
+    "thai": "สกรูหกเหลี่ยมรูใน M8×30(เกรด12.9)",
+    "image": "images/1800_5.jpeg",
+    "qty": 3,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.01.0042",
+    "name": "M8×55内六角螺钉(12.9级)",
+    "english": "Hex .Socket ScrewM8×55(12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M8×55(เกรด12.9)",
+    "image": "images/1800_6.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.01.0055",
+    "name": "M5x14内六角螺钉(12.9级）",
+    "english": "Hex .Socket Screw M5×14(12.9)",
+    "thai": "สกรูหกเหลี่ยมรูใน M5×14(เกรด12.9)",
+    "image": "images/1800_7.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.02.0005",
+    "name": "ST4.2×10十字盘头宽牙螺钉",
+    "english": "ST4.2x10 Tapping Screw",
+    "thai": "สกรูหัวจานแฉกเกลียวหยาบ ST4.2×10",
+    "image": "images/1800_8.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.02.0015",
+    "name": "ST4.8×65×30十字螺钉",
+    "english": "ST4.8×65×30 Tapping Screw",
+    "thai": "สกรูหัวแฉก ST4.8×65×30",
+    "image": "images/1800_9.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.02.0017",
+    "name": "ST4.8×35十字螺钉",
+    "english": "ST4.8×35 Tapping Screw",
+    "thai": "สกรูหัวแฉก ST4.8×35",
+    "image": "images/1800_10.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.06.0009",
+    "name": "M8×150六角螺栓",
+    "english": "He×. Socket Bolt M8×150",
+    "thai": "น็อตหกเหลี่ยม M8×150",
+    "image": "images/1800_11.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.07.0004",
+    "name": "M8×9螺母",
+    "english": "M8×9 Nut",
+    "thai": "น็อต M8×9",
+    "image": "images/1800_12.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.07.0006",
+    "name": "M8×6.4辅手柄螺母",
+    "english": "Nut M8(Thickness 6.4mm).",
+    "thai": "น็อตมือจับรอง M8×6.4",
+    "image": "images/1800_13.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.08.0016",
+    "name": "Ф8平垫(大标)Φ24×Φ8.4×2",
+    "english": "Ф8 Flat Washer Φ24xΦ8.4x2",
+    "thai": "แหวนรองแบน Ф8(ขนาดใหญ่) Φ24×Φ8.4×2",
+    "image": "images/1800_14.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.08.0027",
+    "name": "Ф5.5×Ф16×1.5平垫",
+    "english": "Flat Washer Φ5.5xΦ16x1.5",
+    "thai": "แหวนรองแบน Φ5.5×Φ16×1.5",
+    "image": "images/1800_15.jpeg",
+    "qty": 6,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.11.0006",
+    "name": "Φ40孔用弹性挡圈",
+    "english": "Φ40 Retaining Ring",
+    "thai": "แหวนกดสปริงสำหรับรู Φ40",
+    "image": "images/1800_16.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.16.0005",
+    "name": "弹性圆柱销Ф8×55",
+    "english": "Spring Column PinΦ8×55",
+    "thai": "พินทรงกระบอกสปริง Ф8×55",
+    "image": "images/1800_17.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.17.0032",
+    "name": "减震弹簧Ф2.2×25×63",
+    "english": "Shock Absorption Spring Φ2.2x25x63",
+    "thai": "สปริงกันสั่น Ф2.2×25×63",
+    "image": "images/1800_18.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.18.0013",
+    "name": "ST4.2×16梅花盘头宽牙螺钉",
+    "english": "ST4.2×16 Wide tooth  Torx head self-tapping screw",
+    "thai": "สกรูหัวจานรูปดอกไม้เกลียวหยาบ ST4.2×16",
+    "image": "images/1800_19.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.18.0022",
+    "name": "ST4.2×14梅花盘头宽牙螺钉",
+    "english": "ST4.2×14 Wide tooth Torx head self-tapping screw.",
+    "thai": "สกรูหัวจานรูปดอกไม้เกลียวหยาบ ST4.2×14",
+    "image": "images/1800_20.jpeg",
+    "qty": 3,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.19.0009",
+    "name": "M4×12内六角螺钉(三组合)",
+    "english": "Hex .Socket Screw M4×12 ASS'y",
+    "thai": "สกรูหกเหลี่ยมรูใน M4×12(ชุด 3 ชิ้น)",
+    "image": "images/1800_21.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "21.19.0010",
+    "name": "M10×55内六角螺钉(二组合)",
+    "english": "Hex .Socket Screw M10×55 ASS'y",
+    "thai": "สกรูหกเหลี่ยมรูใน M10×55(ชุด 2 ชิ้น)",
+    "image": "images/1800_22.jpeg",
+    "qty": 4,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "22.01.0089",
+    "name": "(0089)导向板",
+    "english": "Guide plate",
+    "thai": "(0089)แผ่นนำทาง",
+    "image": "images/1800_23.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "22.01.0090",
+    "name": "(0090)辅手柄钢带",
+    "english": "Side Handle  Steel belt",
+    "thai": "(0090)แถบเหล็กมือจับรอง",
+    "image": "images/1800_24.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "22.01.0104",
+    "name": "(0104)轴承压板",
+    "english": "Bearing Washer",
+    "thai": "(0104)แผ่นกดตลับลูกปืน",
+    "image": "images/1800_25.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "23.01.0018",
+    "name": "6203LUVCW轴承(G0011)",
+    "english": "Ball Bearing 6203LUVCW",
+    "thai": "ตลับลูกปืน 6203LUVCW(G0011)",
+    "image": "images/1800_26.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "23.01.0079",
+    "name": "6205RS轴承(G0143)",
+    "english": "Ball Bearing 6205 RS",
+    "thai": "ตลับลูกปืน 6205RS(G0143)",
+    "image": "images/1800_27.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "23.01.0168",
+    "name": "NSK6000DDUCM轴承",
+    "english": "NSK6000  Ball Bearing",
+    "thai": "ตลับลูกปืน NSK6000DDUCM",
+    "image": "images/1800_28.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "23.02.0007",
+    "name": "HK1612滚针轴承(G0009)",
+    "english": "HK1612 Needle Bearing",
+    "thai": "ตลับลูกปืนเข็ม HK1612(G0009)",
+    "image": "images/1800_29.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "23.02.0008",
+    "name": "HK162216滚针轴承(G0009)",
+    "english": "Needle Bearing HK162216",
+    "thai": "ตลับลูกปืนเข็ม HK162216(G0009)",
+    "image": "images/1800_30.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.01.0053",
+    "name": "(0053)开关(110-240V)(佳奔双印)",
+    "english": "Switch 120V",
+    "thai": "(0053)สวิตช์(110-240V)(Jiaben Shuangyin)",
+    "image": "images/1800_31.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.03.0201",
+    "name": "(0201)碳刷T66-6.2×16×22整机",
+    "english": "Carbon Brush 120V",
+    "thai": "(0201)แปรงคาร์บอน T66-6.2×16×22 สำหรับเครื่องทั้งชุด",
+    "image": "images/1800_32.jpeg",
+    "qty": 1,
+    "unit": "副"
+  },
+  {
+    "model": "1800",
+    "code": "24.03.0202",
+    "name": "(0202)碳刷T66-6.2×16×22附件",
+    "english": "Carbon Brush 120V",
+    "thai": "(0202)แปรงคาร์บอน T66-6.2×16×22 อะไหล่เสริม",
+    "image": "images/1800_33.jpeg",
+    "qty": 2,
+    "unit": "副"
+  },
+  {
+    "model": "1800",
+    "code": "24.04.0005",
+    "name": "(0005)碳刷架",
+    "english": "Brush holder",
+    "thai": "(0005)ขาตั้งแปรงคาร์บอน",
+    "image": "images/1800_34.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.06.0002",
+    "name": "(0002)盘簧",
+    "english": "Coil spring",
+    "thai": "(0002)สปริงจาน",
+    "image": "images/1800_35.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.06.0035",
+    "name": "1.5mm接线端子(PA7F)",
+    "english": "Terminal Block(PA7F)",
+    "thai": "ขั้วต่อสายไฟ 1.5mm(PA7F)",
+    "image": "images/1800_36.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.06.0037",
+    "name": "WSJ079三齿扣连带",
+    "english": "WSJ079 Triple-Prong Buckle Strap",
+    "thai": "สายรัดคลิป 3 ฟัน WSJ079",
+    "image": "images/1800_37.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.06.0042",
+    "name": "Φ4.2接线扣(整卷)",
+    "english": "wire connector",
+    "thai": "คลิปหนีบสายไฟ Φ4.2(ม้วนเต็ม)",
+    "image": "images/1800_38.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.06.0047",
+    "name": "(0047)限位片",
+    "english": "Retainer",
+    "thai": "(0047)แผ่นจำกัดระยะ",
+    "image": "images/1800_39.png",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "24.06.0073",
+    "name": "UL1332-16AWG引出线(38CM)-三齿扣-6.3接插件(带护套)",
+    "english": "Connection Wire ",
+    "thai": "สายนำออก UL1332-16AWG(38CM)-คลิป3ฟัน-ขั้วต่อ6.3(มีปลอกหุ้ม)",
+    "image": "images/1800_40.jpeg",
+    "qty": 2,
+    "unit": "根"
+  },
+  {
+    "model": "1800",
+    "code": "25.02.0025DL3",
+    "name": "(0025)温岭美式AD-102-SJOW-2C×14AWG×3.1M",
+    "english": "Power Cord",
+    "thai": "(0025)สายไฟสไตล์อเมริกัน Wenling AD-102-SJOW-2C×14AWG×3.1M",
+    "image": "images/1800_41.jpeg",
+    "qty": 1,
+    "unit": "根"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0115-19",
+    "name": "(0115)旋钮(9005黑色)",
+    "english": "Function Knob",
+    "thai": "(0115)ปุ่มหมุน(สีดำ 9005)",
+    "image": "images/1800_42.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0116-19",
+    "name": "(0116)旋钮盖(9005黑色)",
+    "english": "Function Knob cover",
+    "thai": "(0116)ฝาปิดปุ่มหมุน(สีดำ 9005)",
+    "image": "images/1800_43.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0303",
+    "name": "(0303)压气活塞",
+    "english": "Gas Press Piston",
+    "thai": "(0303)ลูกสูบอัดลม",
+    "image": "images/1800_44.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0304-121",
+    "name": "(0304)顶罩(7701C信科蓝)",
+    "english": "Cover",
+    "thai": "(0304)ฝาครอบด้านบน(สีน้ำเงิน Xinke 7701C)",
+    "image": "images/1800_45.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0305",
+    "name": "(0305)油箱盖",
+    "english": "Oil Tank Cover",
+    "thai": "(0305)ฝาปิดถังน้ำมัน",
+    "image": "images/1800_46.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0306",
+    "name": "(0306)羊毛毡盖板",
+    "english": "Cover plate",
+    "thai": "(0306)แผ่นปิดผ้าสักหลาด",
+    "image": "images/1800_47.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0307",
+    "name": "(0307)定子衬套",
+    "english": "Motor Housing",
+    "thai": "(0307)ปลอกสเตเตอร์",
+    "image": "images/1800_48.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0308-121",
+    "name": "(0308)风罩(7701C信科蓝)",
+    "english": "Fan Cover",
+    "thai": "(0308)ฝาครอบพัดลม(สีน้ำเงิน Xinke 7701C)",
+    "image": "images/1800_49.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0309-121",
+    "name": "(0309)护套盖板(7701C信科蓝)",
+    "english": "Blind flange",
+    "thai": "(0309)แผ่นปิดปลอกหุ้ม(สีน้ำเงิน Xinke 7701C)",
+    "image": "images/1800_50.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0310",
+    "name": "(0310)开关座",
+    "english": "Switch seat",
+    "thai": "(0310)ฐานสวิตช์",
+    "image": "images/1800_51.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0311-19",
+    "name": "(0311)主手柄座(9005黑色)",
+    "english": "Main handle  Base",
+    "thai": "(0311)ฐานมือจับหลัก(สีดำ 9005)",
+    "image": "images/1800_52.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0312-19",
+    "name": "(0312)主手柄(9005黑色)",
+    "english": "Main Handle",
+    "thai": "(0312)มือจับหลัก(สีดำ 9005)",
+    "image": "images/1800_53.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0313K0022B-121",
+    "name": "(0313)标牌(正面)(7701C信科蓝)(HERCULES凸字平印白色)",
+    "english": "Logo plate(Front Side)",
+    "thai": "(0313)ป้ายฉลาก(ด้านหน้า)(สีน้ำเงิน Xinke 7701C)(ตัวอักษร HERCULES นูนพิมพ์สีขาว)",
+    "image": "images/1800_54.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0314K0022B-121",
+    "name": "(0314)标牌(反面)(7701C信科蓝)(HERCULES凸字平印白色)",
+    "english": "Logo plate(Reverse Side)",
+    "thai": "(0314)ป้ายฉลาก(ด้านหลัง)(สีน้ำเงิน Xinke 7701C)(ตัวอักษร HERCULES นูนพิมพ์สีขาว)",
+    "image": "images/1800_55.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0315",
+    "name": "(0315)缺口圆盘",
+    "english": "Disk with gap",
+    "thai": "(0315)จานกลมร่อง",
+    "image": "images/1800_56.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0316",
+    "name": "(0316)夹块",
+    "english": "Clamping",
+    "thai": "(0316)บล็อกหนีบ",
+    "image": "images/1800_57.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0317-19",
+    "name": "(0317)辅手柄(9005黑色)(包胶为黑色）",
+    "english": "Side Handle",
+    "thai": "(0317)มือจับรอง(สีดำ 9005)(หุ้มยางสีดำ)",
+    "image": "images/1800_58.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "26.01.0327",
+    "name": "(0327)电缆线压板",
+    "english": "Cord Clip",
+    "thai": "(0327)แผ่นกดสายเคเบิล",
+    "image": "images/1800_59.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0152",
+    "name": "(0152)镐杆夹(发黑)",
+    "english": "Chisel Chuck",
+    "thai": "(0152)คลิปแท่งค้อนขุด(ชุบดำ)",
+    "image": "images/1800_60.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0153",
+    "name": "(0153)锁杆",
+    "english": "Locking Lever",
+    "thai": "(0153)แท่งล็อค",
+    "image": "images/1800_61.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0204",
+    "name": "(0204)头套",
+    "english": "Front Cover",
+    "thai": "(0204)ปลอกหัว",
+    "image": "images/1800_62.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0207",
+    "name": "(0207)定位套",
+    "english": "Locating Sleeve",
+    "thai": "(0207)ปลอกกำหนดตำแหน่ง",
+    "image": "images/1800_63.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0211",
+    "name": "(0211)冲锤",
+    "english": "Impact Hammer",
+    "thai": "(0211)ค้อนกระแทก",
+    "image": "images/1800_64.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0212",
+    "name": "(0212)限位挡圈",
+    "english": "Limit ring",
+    "thai": "(0212)แหวนจำกัดระยะ",
+    "image": "images/1800_65.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0213",
+    "name": "(0213)气缸(电镐)",
+    "english": "Cylinder",
+    "thai": "(0213)กระบอกลม(ค้อนขุดไฟฟ้า)",
+    "image": "images/1800_66.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0214",
+    "name": "(0214)冲击活塞",
+    "english": "Impact Piston",
+    "thai": "(0214)ลูกสูบกระแทก",
+    "image": "images/1800_67.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0215",
+    "name": "(0215)大齿",
+    "english": "Final Gear",
+    "thai": "(0215)เฟืองใหญ่",
+    "image": "images/1800_68.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0216",
+    "name": "(0216)曲轴",
+    "english": "Crank Shaft",
+    "thai": "(0216)เพลาข้อเหวี่ยง",
+    "image": "images/1800_69.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0217",
+    "name": "(0217)双联齿",
+    "english": "Double teeth",
+    "thai": "(0217)เฟืองคู่",
+    "image": "images/1800_70.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0218",
+    "name": "(0218)活塞环",
+    "english": "Piston ring",
+    "thai": "(0218)แหวนลูกสูบ",
+    "image": "images/1800_71.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0219",
+    "name": "(0219)活塞销Ф14×39",
+    "english": "Piston PinΦ14×39",
+    "thai": "(0219)พินลูกสูบ Ф14×39",
+    "image": "images/1800_72.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0220",
+    "name": "(0220)双联齿定位销Ф16×60",
+    "english": "PinΦ16×60",
+    "thai": "(0220)พินกำหนดตำแหน่งเฟืองคู่ Ф16×60",
+    "image": "images/1800_73.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "27.01.0221",
+    "name": "(0221)标牌定位销Ф6×78",
+    "english": "PinΦ6×78",
+    "thai": "(0221)พินกำหนดตำแหน่งป้ายฉลาก Ф6×78",
+    "image": "images/1800_74.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "28.01.0086B",
+    "name": "(0086)定子120V",
+    "english": "Stator 120V",
+    "thai": "(0086)สเตเตอร์ 120V",
+    "image": "images/1800_75.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "28.02.0090B",
+    "name": "(0090)电枢120V",
+    "english": "Rotor  120V",
+    "thai": "(0090)อาร์เมเจอร์ 120V",
+    "image": "images/1800_76.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "28.08.0031",
+    "name": "(0031)风叶",
+    "english": "Fan",
+    "thai": "(0031)ใบพัดลม",
+    "image": "images/1800_77.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "28.16.0008",
+    "name": "(0008)Φ4热缩管",
+    "english": "Φ4heat shrink tubing",
+    "thai": "(0008)ท่อหดความร้อน Φ4",
+    "image": "images/1800_78.jpeg",
+    "qty": 0.06,
+    "unit": "米"
+  },
+  {
+    "model": "1800",
+    "code": "29.01.0171",
+    "name": "(0171)气缸座",
+    "english": "Cylinder seat",
+    "thai": "(0171)ฐานกระบอกลม",
+    "image": "images/1800_79.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "29.01.0172-127",
+    "name": "(0172)机壳(9006U亚光银白)",
+    "english": "Crank Housing",
+    "thai": "(0172)ตัวเครื่อง(สีเงินขาวด้าน 9006U)",
+    "image": "images/1800_80.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "29.01.0173",
+    "name": "(0173)连杆",
+    "english": "Connecting Rod",
+    "thai": "(0173)แท่งเชื่อมต่อ",
+    "image": "images/1800_81.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "29.01.0174-127",
+    "name": "(0174)铝头(9006U亚光银白)",
+    "english": "Aluminum Head",
+    "thai": "(0174)หัวอลูมิเนียม(สีเงินขาวด้าน 9006U)",
+    "image": "images/1800_82.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.01.6009-TH",
+    "name": "K0022-SH1800-28HB(泰国版57150)外箱",
+    "english": "carton",
+    "thai": "K0022-SH1800-28HB(รุ่นไทย 57150)ลังนอก",
+    "image": "images/1800_83.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.01.6010-TH",
+    "name": "K0022-SH1800-28HB(泰国版57150)彩盒",
+    "english": "graphic carton",
+    "thai": "K0022-SH1800-28HB(รุ่นไทย 57150)กล่องสี",
+    "image": "images/1800_84.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.03.0725K0022-27",
+    "name": "257#吹塑盒(半新料）(SIMKO款)(箱体7701C信科蓝HERCULES凸字白色)(箱扣金属银色带HERCULES字)",
+    "english": "BMC",
+    "thai": "กล่องเป่าพลาสติก",
+    "image": "images/1800_85.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.04.6004-TH",
+    "name": "K0022-(泰国版通用)周期码标",
+    "english": "Cycle Code Label",
+    "thai": "K0022(รุ่นไทยทั่วไป)ฉลากรหัสชุดการผลิต",
+    "image": "images/1800_86.jpeg",
+    "qty": 2,
+    "unit": "个"
+  },
+  {
+    "model": "1800",
+    "code": "30.04.6018-TH",
+    "name": "K0022-SH1800-28HB(泰国版57150)主标",
+    "english": "Parameter Label",
+    "thai": "K0022-SH1800-28HB(รุ่นไทย 57150)ฉลากหลัก",
+    "image": "images/1800_87.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "1800",
+    "code": "30.04.0415",
+    "name": "K0022-电缆线标",
+    "english": "Cable Label Sticker",
+    "thai": "K0022 ฉลากสายเคเบิล",
+    "image": "images/1800_88.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "1800",
+    "code": "30.04.0643",
+    "name": "K0022-SH2900-28HB/SH1800-28HB/G80BD夹头指示标",
+    "english": "Chuck indicator Label",
+    "thai": "K0022-SH2900-28HB/SH1800-28HB/G80BD ฉลากบอกตำแหน่งหัวจับ",
+    "image": "images/1800_89.jpeg",
+    "qty": 1,
+    "unit": "个"
+  },
+  {
+    "model": "1800",
+    "code": "30.05.6007-TH",
+    "name": "K0022-SH1800-28HB(泰国版57150)说明书",
+    "english": "Product Manual",
+    "thai": "K0022-SH1800-28HB(รุ่นไทย 57150)คู่มือการใช้งาน",
+    "image": "images/1800_90.jpeg",
+    "qty": 1,
+    "unit": "本"
+  },
+  {
+    "model": "1800",
+    "code": "30.06.6000-TH",
+    "name": "K0022-(泰国版)BAUER HERCULES卡片",
+    "english": "Hang Tag",
+    "thai": "K0022(รุ่นไทย)การ์ด BAUER HERCULES",
+    "image": "images/1800_91.png",
+    "qty": 1,
+    "unit": "张"
+  },
+  {
+    "model": "1800",
+    "code": "30.06.6002-TH",
+    "name": "K0022-SH2900-28HB/SH1800-28HB(泰国版)吊卡2",
+    "english": "Hang Tag",
+    "thai": "K0022-SH2900-28HB/SH1800-28HB(รุ่นไทย)ป้ายแขวน 2",
+    "image": "images/1800_92.jpeg",
+    "qty": 1,
+    "unit": "张"
+  },
+  {
+    "model": "1800",
+    "code": "30.06.6003-TH",
+    "name": "K0022-SH1800-28HB(泰国版57150)镐杆安装示意吊卡",
+    "english": "Hang Tag",
+    "thai": "K0022-SH1800-28HB(รุ่นไทย 57150)ป้ายแขวนแผนภาพติดตั้งแท่งค้อนขุด",
+    "image": "images/1800_93.jpeg",
+    "qty": 1,
+    "unit": "张"
+  },
+  {
+    "model": "1800",
+    "code": "30.09.0017",
+    "name": "G65BC整机袋（40x100）(K0022专用)",
+    "english": "Complet bag",
+    "thai": "ถุงบรรจุเครื่องทั้งชุด G65BC(40x100)(ใช้เฉพาะ K0022)",
+    "image": "images/1800_94.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.09.0057",
+    "name": "说明书袋(环保字)(K0022专用)24×35",
+    "english": "instruction bag",
+    "thai": "ถุงใส่คู่มือ(ข้อความรักษ์โลก)(ใช้เฉพาะ K0022)24×35",
+    "image": "images/1800_95.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.09.0090",
+    "name": "头套保护袋32x60CM",
+    "english": "protecting bag",
+    "thai": "ถุงปกป้องปลอกหัว 32x60CM",
+    "image": "images/1800_96.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.12.0021",
+    "name": "7#子母扣",
+    "english": "snap fastener",
+    "thai": "คลิปแม่ลูกเบอร์7",
+    "image": "images/1800_97.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "30.12.0049",
+    "name": "60g油脂油管(CYP-B199B-00润滑脂)",
+    "english": "Oil Bottle",
+    "thai": "หลอดจ่ายจารบี 60g(จารบีหล่อลื่น CYP-B199B-00)",
+    "image": "images/1800_98.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.01.0154",
+    "name": "(0154)减震圈Ф51×Ф59×Ф3.5",
+    "english": "Shock Absorption Ferrule Ф51×Ф59×Ф3.5 ",
+    "thai": "(0154)แหวนกันสั่น Ф51×Ф59×Ф3.5",
+    "image": "images/1800_99.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.01.0155",
+    "name": "(0155)-O形圈Ф39.4×Ф3.1",
+    "english": "O-RingФ39.4×Ф3.1",
+    "thai": "(0155)โอริง Ф39.4×Ф3.1",
+    "image": "images/1800_100.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.01.0156",
+    "name": "(0156)O形圈Ф87×Ф3.5",
+    "english": "O-RingΦ87×Φ3.5",
+    "thai": "(0156)โอริง Ф87×Ф3.5",
+    "image": "images/1800_101.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.01.0157",
+    "name": "(0157)异形密封圈",
+    "english": "Seal Ring",
+    "thai": "(0157)ซีลรูปทรงพิเศษ",
+    "image": "images/1800_102.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.01.0158",
+    "name": "(0158)氟O形圈Φ30.2xΦ5.1",
+    "english": "Fluorin O-RingΦ30.2xΦ5.1",
+    "thai": "(0158)โอริงฟลูออโรคาร์บอน Φ30.2×Φ5.1",
+    "image": "images/1800_103.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.01.0172",
+    "name": "(0172)-O形圈Φ60×Φ3.3",
+    "english": "O RingΦ60xΦ3.3",
+    "thai": "(0172)โอริง Φ60×Φ3.3",
+    "image": "images/1800_104.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.02.0115",
+    "name": "(0115)锁紧圈",
+    "english": "Clamp ring",
+    "thai": "(0115)แหวนล็อค",
+    "image": "images/1800_105.jpeg",
+    "qty": 2,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.02.0141",
+    "name": "(0141)减震环",
+    "english": "Shock absorption ring",
+    "thai": "(0141)แหวนกันสั่น",
+    "image": "images/1800_106.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.02.0142",
+    "name": "(0142)电缆线护套",
+    "english": "Cable Guard",
+    "thai": "(0142)ปลอกหุ้มสายเคเบิล",
+    "image": "images/1800_107.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "31.02.0143",
+    "name": "(0143)6000轴承套(新)",
+    "english": "6000 Bearing Ring",
+    "thai": "(0143)ปลอกตลับลูกปืน 6000(ใหม่)",
+    "image": "images/1800_108.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "34.01.0009",
+    "name": "(0009)羊毛毡1Ф26×14",
+    "english": "Felt wahser 1Ф26×14",
+    "thai": "(0009)ผ้าสักหลาด 1 Ф26×14",
+    "image": "images/1800_109.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "34.01.0024",
+    "name": "(0024)羊毛毡2φ9x15",
+    "english": "Felt wahser 2φ9x15",
+    "thai": "(0024)ผ้าสักหลาด 2 φ9×15",
+    "image": "images/1800_110.jpeg",
+    "qty": 1,
+    "unit": "只"
+  },
+  {
+    "model": "1800",
+    "code": "34.02.0010",
+    "name": "(0010)CYP-B199B-00润滑脂",
+    "english": "Grease CYP-B199B-00",
+    "thai": "(0010)จารบีหล่อลื่น CYP-B199B-00",
+    "image": "images/1800_111.jpeg",
+    "qty": 0.12,
+    "unit": "KG"
+  },
+  {
+    "model": "1800",
+    "code": "34.02.0015",
+    "name": "CYP-B054-2锂基脂",
+    "english": "lithium grease CYP-B054-2",
+    "thai": "จารบีลิเทียม CYP-B054-2",
+    "image": "images/1800_112.jpeg",
+    "qty": 0.03,
+    "unit": "KG"
+  },
+  {
+    "model": "1800",
+    "code": "36.06.0005TH",
+    "name": "SH1800-28HB-TH 头套组件",
+    "english": "Front cover assembly",
+    "thai": "SH1800-28HB-TH ชุดปลอกหัว",
+    "image": "images/1800_114.jpeg",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "1800",
+    "code": "36.06.0006TH",
+    "name": "SH1800-28HB-TH 机壳组件",
+    "english": "Crank housing assmebly",
+    "thai": "SH1800-28HB-TH ชุดตัวเครื่อง",
+    "image": "images/1800_115.jpeg",
+    "qty": 1,
+    "unit": "套"
+  },
+  {
+    "model": "1800",
+    "code": "36.06.0022TH",
+    "name": "SH1800-28HB-TH旋钮组件",
+    "english": "SH1800-28HB-TH\n Function Knob assembly",
+    "thai": "SH1800-28HB-TH ชุดปุ่มหมุน",
+    "image": "",
+    "qty": 1,
+    "unit": "套"
+  }
+]
