@@ -1,81 +1,505 @@
-<!doctype html>
+
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#123b5d">
-<title>物料查询 · Material Finder</title>
+<title>物料智查 | Material Finder | ค้นหาวัสดุ</title>
 <style>
-:root{--navy:#123b5d;--blue:#176b87;--teal:#19a7a0;--bg:#f3f7fa;--ink:#1b2b3a;--muted:#718096;--line:#e3ebf1;--white:#fff}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,"Segoe UI","Microsoft YaHei",Arial,sans-serif}
-header{background:linear-gradient(120deg,#102f4b,#176b87);color:white;padding:26px 18px 62px}
-.top{max-width:1040px;margin:auto;display:flex;justify-content:space-between;align-items:center;gap:16px}
-.brand{font-weight:800;letter-spacing:.3px;font-size:20px}.brand small{display:block;font-size:11px;font-weight:500;opacity:.75;letter-spacing:2px;margin-top:5px}
-.pill{border:1px solid #ffffff55;border-radius:30px;padding:8px 12px;font-size:12px;color:#e7f7ff}
-main{max-width:1040px;margin:-38px auto 40px;padding:0 16px}
-.panel{background:white;border-radius:20px;padding:22px;box-shadow:0 12px 35px #173c5810;border:1px solid #e9f0f5}
-h1{font-size:24px;margin:0 0 7px}.sub{color:var(--muted);font-size:13px;margin-bottom:22px}
-.searchgrid{display:grid;grid-template-columns:190px 1fr auto;gap:12px;align-items:end}
-label{font-size:12px;color:#536577;font-weight:700;display:block;margin:0 0 8px}
-select,input{width:100%;height:48px;border:1px solid #d9e3eb;border-radius:12px;background:#fbfdff;padding:0 13px;font-size:15px;color:var(--ink);outline:none}
-select:focus,input:focus{border-color:var(--teal);box-shadow:0 0 0 3px #19a7a01b}
-button{height:48px;border:0;border-radius:12px;background:var(--teal);color:white;font-weight:750;padding:0 22px;font-size:14px;cursor:pointer}
-button:hover{filter:brightness(.96)}.hint{font-size:12px;color:var(--muted);margin-top:12px}
-.stats{display:flex;gap:9px;flex-wrap:wrap;margin:17px 0 0}.stat{background:#f0f7f9;color:#456171;border-radius:9px;padding:7px 10px;font-size:12px}
-.results-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:24px 2px 12px}.results-head h2{font-size:17px;margin:0}.count{font-size:12px;color:var(--muted)}
-.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
-.item{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;display:grid;grid-template-columns:140px 1fr;min-height:190px;box-shadow:0 5px 20px #173c5807}
-.photo{background:#f8fafc;display:flex;align-items:center;justify-content:center;padding:10px;border-right:1px solid #edf1f4;min-width:0}
-.photo img{width:100%;height:160px;object-fit:contain}.noimg{color:#a3b2bf;font-size:12px;text-align:center}
-.info{padding:15px;min-width:0}.code{font-size:17px;font-weight:800;color:var(--navy);overflow-wrap:anywhere}.name{font-weight:650;font-size:13px;line-height:1.5;margin-top:6px}.eng,.thai{font-size:11px;color:var(--muted);line-height:1.45;margin-top:4px}
-.meta{display:flex;gap:7px;flex-wrap:wrap;margin-top:12px}.tag{border-radius:8px;background:#edf8f7;color:#087e79;font-size:12px;padding:6px 8px;font-weight:700}.tag.model{background:#edf3fa;color:#285b86}
-.empty{background:white;border:1px dashed #cbd8e2;border-radius:16px;text-align:center;padding:36px 20px;color:var(--muted);grid-column:1/-1}.empty strong{display:block;color:#34495b;margin-bottom:6px}
-footer{text-align:center;color:#93a1ad;font-size:11px;padding:24px 12px 34px}
-@media(max-width:720px){header{padding-bottom:58px}.brand{font-size:18px}.pill{font-size:11px}.panel{padding:17px;border-radius:17px}h1{font-size:21px}.searchgrid{grid-template-columns:1fr;gap:13px}.searchgrid button{width:100%}.cards{grid-template-columns:1fr}.item{grid-template-columns:112px 1fr;min-height:165px}.photo img{height:140px}.info{padding:12px}.code{font-size:16px}}
+:root {
+  --navy:#123b5d;
+  --blue:#176b87;
+  --teal:#16a39b;
+  --bg:#f3f7fa;
+  --ink:#203142;
+  --muted:#708092;
+  --line:#e3ebf1;
+}
+* { box-sizing:border-box; }
+body {
+  margin:0;
+  font-family:Arial,"Microsoft YaHei",Tahoma,sans-serif;
+  background:var(--bg);
+  color:var(--ink);
+}
+header {
+  background:linear-gradient(125deg,#102f4b,#176b87);
+  color:white;
+  padding:24px 16px 54px;
+}
+.top {
+  max-width:1150px;
+  margin:auto;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+}
+.brand { font-size:23px;font-weight:800; }
+.brand small {
+  display:block;
+  margin-top:7px;
+  font-size:11px;
+  line-height:1.7;
+  font-weight:400;
+}
+.pill {
+  border:1px solid #ffffff70;
+  border-radius:30px;
+  padding:8px 12px;
+  font-size:12px;
+  line-height:1.5;
+}
+main {
+  max-width:1150px;
+  margin:-30px auto 35px;
+  padding:0 14px;
+}
+.panel {
+  background:white;
+  border:1px solid var(--line);
+  border-radius:17px;
+  padding:22px;
+  box-shadow:0 8px 28px #173c580c;
+}
+h1 { font-size:23px;margin:0 0 8px; }
+.sub {
+  font-size:12px;
+  color:var(--muted);
+  line-height:1.9;
+  margin-bottom:19px;
+}
+.searchgrid {
+  display:grid;
+  grid-template-columns:190px minmax(200px,1fr) auto;
+  gap:12px;
+  align-items:end;
+}
+.field label {
+  display:block;
+  font-size:12px;
+  line-height:1.7;
+  font-weight:700;
+  margin-bottom:6px;
+}
+input,select {
+  width:100%;
+  min-width:0;
+  height:44px;
+  padding:0 11px;
+  border:1px solid #d7e1e9;
+  border-radius:10px;
+  background:#fbfdff;
+  font-size:14px;
+  color:var(--ink);
+}
+input:focus,select:focus {
+  outline:2px solid #16a39b30;
+  border-color:var(--teal);
+}
+button {
+  min-height:44px;
+  border:0;
+  border-radius:10px;
+  background:var(--teal);
+  color:white;
+  padding:10px 20px;
+  font-size:14px;
+  font-weight:700;
+  cursor:pointer;
+}
+button:hover { filter:brightness(.95); }
+.hint {
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.9;
+  margin-top:12px;
+}
+.stats {
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:14px;
+}
+.stat {
+  border-radius:8px;
+  background:#eff6f8;
+  color:#456171;
+  padding:7px 10px;
+  font-size:12px;
+}
+.results-head {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+  margin:24px 2px 12px;
+}
+.results-head h2 { font-size:18px;margin:0; }
+.count { font-size:12px;color:var(--muted); }
+.cards {
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+}
+.item {
+  min-width:0;
+  display:grid;
+  grid-template-columns:140px minmax(0,1fr);
+  background:white;
+  border:1px solid var(--line);
+  border-radius:14px;
+  overflow:hidden;
+  box-shadow:0 4px 16px #173c5808;
+}
+.photo {
+  min-width:0;
+  min-height:160px;
+  padding:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:#f8fafc;
+  border-right:1px solid #edf1f4;
+}
+.photo img {
+  display:block;
+  width:100%;
+  height:155px;
+  object-fit:contain;
+}
+.noimg { color:#9aa8b5;font-size:12px;text-align:center; }
+.info { min-width:0;padding:14px; }
+.code {
+  color:var(--navy);
+  font-size:16px;
+  font-weight:800;
+  overflow-wrap:anywhere;
+}
+.name {
+  font-size:14px;
+  font-weight:700;
+  line-height:1.7;
+  margin-top:5px;
+  overflow-wrap:anywhere;
+}
+.eng,.thai {
+  font-size:12px;
+  color:var(--muted);
+  line-height:1.7;
+  margin-top:3px;
+  overflow-wrap:anywhere;
+}
+.meta {
+  display:flex;
+  flex-direction:column;
+  gap:7px;
+  margin-top:12px;
+}
+.tag {
+  display:block;
+  border-radius:8px;
+  padding:7px 9px;
+  background:#edf8f7;
+  color:#087b75;
+  font-size:12px;
+  line-height:1.8;
+  overflow-wrap:anywhere;
+}
+.tag.model { background:#edf3fa;color:#285b86; }
+.empty {
+  grid-column:1/-1;
+  padding:28px 18px;
+  text-align:center;
+  color:var(--muted);
+  background:white;
+  border:1px dashed #d7e1e9;
+  border-radius:14px;
+  font-size:13px;
+  line-height:1.9;
+}
+.empty strong {
+  display:block;
+  color:var(--ink);
+  margin-bottom:5px;
+}
+footer {
+  max-width:1150px;
+  margin:0 auto;
+  padding:0 16px 28px;
+  text-align:center;
+  color:var(--muted);
+  font-size:11px;
+  line-height:1.9;
+}
+@media(max-width:720px) {
+  header { padding:20px 14px 48px; }
+  .brand { font-size:20px; }
+  .pill { max-width:135px;text-align:center; }
+  main { padding:0 10px;margin-top:-27px; }
+  .panel { padding:16px; }
+  h1 { font-size:20px; }
+  .searchgrid { grid-template-columns:1fr; }
+  .searchgrid button { width:100%; }
+  .cards { grid-template-columns:1fr; }
+  .item { grid-template-columns:112px minmax(0,1fr); }
+  .photo { padding:7px; }
+  .photo img { height:130px; }
+  .info { padding:11px; }
+  .code { font-size:14px; }
+  .name { font-size:13px; }
+}
 </style>
 </head>
 <body>
-<header><div class="top"><div class="brand">物料智查 <small>MATERIAL FINDER · 物料图像与用量查询</small></div><div class="pill">手机 / 电脑均可使用</div></div></header>
-<main>
-<section class="panel">
-<h1>快速查询物料</h1>
-<div class="sub">选择机型 / Select Model / เลือกรุ่น，再输入物料代码或名称，即可查看图片、基本用量与适用机型。Enter a material code or name to view images, usage, and applicable models. ป้อนรหัสวัสดุหรือชื่อเพื่อดูรูปภาพ ปริมาณการใช้ และรุ่นที่ใช้งานได้</div>
 
-<div class="searchgrid"><div>
-  <label for="orderQty">需求数量 / Required Quantity / จำนวนที่ต้องการ</label>
-  <input id="orderQty" type="number" min="1" step="1" value="1" placeholder="请输入数量 / Enter quantity / กรอกจำนวน">
-</div>
-<div class="hint">支持输入完整物料代码或关键词；选择“全部机型”可查看共用物料及适用机型。</div>
-<div class="stats"><span class="stat">机型：2900 / 1800 / 1100</span><span class="stat" id="total">物料载入中…</span><span class="stat">免费静态网页</span></div>
-</section>
-<div class="results-head"><h2>查询结果</h2><span class="count" id="count">准备中</span></div>
-<section class="cards" id="results"><div class="empty"><strong>正在载入物料资料</strong>请稍候…</div></section>
+<header>
+  <div class="top">
+    <div class="brand">
+      物料智查
+      <small>
+        MATERIAL FINDER · ค้นหาวัสดุ<br>
+        物料图片、用量与适用机型查询 / Material, Usage & Model Lookup
+      </small>
+    </div>
+    <div class="pill">
+      手机 / Mobile / มือถือ<br>
+      电脑 / Desktop / คอมพิวเตอร์
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="panel">
+    <h1>快速查询物料 / Find Materials / ค้นหาวัสดุ</h1>
+
+    <div class="sub">
+      选择机型并输入物料代码或名称，查看图片、用量和适用机型。<br>
+      Select a model and enter a material code or name to view images, usage and applicable models.<br>
+      เลือกรุ่นและป้อนรหัสหรือชื่อวัสดุเพื่อดูรูปภาพ ปริมาณการใช้ และรุ่นที่ใช้งานได้
+    </div>
+
+    <div class="searchgrid">
+      <div class="field">
+        <label for="model">
+          选择机型 / Select Model / เลือกรุ่น
+        </label>
+        <select id="model">
+          <option value="全部">全部机型 / All Models / ทุกรุ่น</option>
+          <option value="2900">2900</option>
+          <option value="1800">1800</option>
+          <option value="1100">1100</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="keyword">
+          物料代码或名称 / Material Code or Name / รหัสหรือชื่อวัสดุ
+        </label>
+        <input
+          id="keyword"
+          type="search"
+          placeholder="输入物料代码或名称 / Enter code or name / ป้อนรหัสหรือชื่อ"
+          autocomplete="off"
+        >
+      </div>
+
+      <button id="search" type="button">
+        查询 / Search / ค้นหา
+      </button>
+    </div>
+
+    <div class="hint">
+      支持完整编码或关键词；选择全部机型可查看所有匹配物料。<br>
+      Search by full code or keyword. Select All Models to view all matching materials.<br>
+      ค้นหาด้วยรหัสเต็มหรือคำสำคัญ เลือกทุกรุ่นเพื่อดูวัสดุที่ตรงกันทั้งหมด
+    </div>
+
+    <div class="stats">
+      <span class="stat">2900 / 1800 / 1100</span>
+      <span class="stat" id="total">正在载入资料 / Loading / กำลังโหลด</span>
+      <span class="stat">免费网页 / Free Website / เว็บไซต์ฟรี</span>
+    </div>
+  </section>
+
+  <div class="results-head">
+    <h2>查询结果 / Results / ผลการค้นหา</h2>
+    <span class="count" id="count">准备中 / Ready / กำลังเตรียม</span>
+  </div>
+
+  <section class="cards" id="results">
+    <div class="empty">
+      <strong>正在载入物料资料 / Loading Materials / กำลังโหลดข้อมูล</strong>
+      请稍候 / Please wait / กรุณารอสักครู่
+    </div>
+  </section>
 </main>
-<footer>物料智查 · 数据来自已提供的物料表格 · 如需更新资料，请替换 data.json 和 images 文件夹</footer>
+
+<footer>
+  物料智查 / Material Finder / ค้นหาวัสดุ<br>
+  数据来自 data.json；图片路径使用物料数据中的 image 字段。<br>
+  Data is loaded from data.json. Image paths come from the image field.
+</footer>
+
 <script>
-const $=id=>document.getElementById(id);let materials=[];
-const models=["2900","1800","1100"];
-function applicable(code){return [...new Set(materials.filter(x=>x.code===code).map(x=>x.model))]}
-function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function render(){
- const model=$("model").value, q=$("keyword").value.trim().toLowerCase();
- let list=materials.filter(x=>(model==="全部"||x.model===model)&&(!q||[x.code,x.name,x.english,x.thai].some(v=>String(v||"").toLowerCase().includes(q))));
- list.sort((a,b)=>a.code.localeCompare(b.code,undefined,{numeric:true}));
- $("count").textContent=`找到 ${list.length} 条物料`;
- if(!list.length){$("results").innerHTML='<div class="empty"><strong>没有找到匹配物料</strong>请检查机型或物料代码，也可以尝试输入名称关键词。</div>';return}
- $("results").innerHTML=list.slice(0,100).map(x=>{
- const ms=applicable(x.code);return `<article class="item"><div class="photo">${x.image?`<img loading="lazy" src="${esc(x.image)}" alt="${esc(x.code)}" onerror="this.outerHTML='<div class=&quot;noimg&quot;>暂无图片</div>'">`:'<div class="noimg">暂无图片</div>'}</div><div class="info"><div class="code">${esc(x.code)}</div><div class="name">${esc(x.name)}</div>${x.english?`<div class="eng">${esc(x.english)}</div>`:''}${x.thai?`<div class="thai">${esc(x.thai)}</div>`:''}
-<div class="meta">
-  <span class="tag">单台用量 / Usage / ปริมาณต่อเครื่อง：${esc(x.qty)} ${esc(x.unit)}</span>
-  <span class="tag">需求数量 / Required Qty：${esc($("orderQty").value || 1)}</span>
-  <span class="tag">总需求量 / Total Required：
-    ${Number(x.qty) * Number($("orderQty").value || 1)} ${esc(x.unit)}
-  </span>
-  <span class="tag model">适用机型 / Applicable Models：${ms.join(" / ")}</span>
-</div>
-</div></article>`
- }).join("")+(list.length>100?'<div class="empty">当前显示前 100 条，请输入更具体的关键词缩小范围。</div>':'');
+"use strict";
+
+const $ = id => document.getElementById(id);
+let materials = [];
+
+function esc(value) {
+  return String(value ?? "").replace(/[&<>"']/g, ch => ({
+    "&":"&amp;",
+    "<":"&lt;",
+    ">":"&gt;",
+    '"':"&quot;",
+    "'":"&#39;"
+  })[ch]);
 }
-$("search").addEventListener("click",render);$("model").addEventListener("change",render);$("keyword").addEventListener("input",render);$("keyword").addEventListener("keydown",e=>{if(e.key==="Enter")render()});
-fetch("data.json").then(r=>{if(!r.ok)throw Error("data.json加载失败");return r.json()}).then(d=>{materials=d;$("total").textContent=`已载入 ${d.length} 条物料`;render()}).catch(()=>{$("total").textContent="资料载入失败";$("results").innerHTML='<div class="empty"><strong>无法读取物料资料</strong>请确认 data.json 与 index.html 放在同一目录，并通过网站地址打开。</div>'});
+
+function modelName(value) {
+  if (Array.isArray(value)) return value.map(String);
+  if (value == null || value === "") return [];
+  return String(value).split(/\s*[,/|]\s*/).filter(Boolean);
+}
+
+function applicable(code) {
+  const models = new Set();
+  materials
+    .filter(item => String(item.code ?? "") === String(code ?? ""))
+    .forEach(item => modelName(item.model).forEach(m => models.add(m)));
+  return [...models].sort((a,b) => a.localeCompare(b,undefined,{numeric:true}));
+}
+
+function render() {
+  const selectedModel = $("model").value;
+  const q = $("keyword").value.trim().toLowerCase();
+
+  const list = materials.filter(item => {
+    const matchesModel =
+      selectedModel === "全部" ||
+      modelName(item.model).includes(selectedModel);
+
+    const searchable = [
+      item.code, item.name, item.english, item.thai
+    ].some(value =>
+      String(value ?? "").toLowerCase().includes(q)
+    );
+
+    return matchesModel && (!q || searchable);
+  });
+
+  list.sort((a,b) =>
+    String(a.code ?? "").localeCompare(
+      String(b.code ?? ""), undefined, {numeric:true}
+    )
+  );
+
+  $("count").textContent =
+    `找到 ${list.length} 条 / ${list.length} found / พบ ${list.length} รายการ`;
+
+  if (!list.length) {
+    $("results").innerHTML = `
+      <div class="empty">
+        <strong>没有找到物料 / No Materials Found / ไม่พบวัสดุ</strong>
+        请检查机型或关键词。<br>
+        Check the model or keyword.<br>
+        กรุณาตรวจสอบรุ่นหรือคำค้นหา
+      </div>`;
+    return;
+  }
+
+  // 显示全部匹配结果，不限制 100 条。
+  $("results").innerHTML = list.map(item => {
+    const models = applicable(item.code);
+    const imagePath = String(item.image ?? "").trim();
+
+    const photo = imagePath
+      ? `<img loading="lazy"
+              src="${esc(imagePath)}"
+              alt="${esc(item.code)}"
+              onerror="this.hidden=true;this.nextElementSibling.hidden=false">
+         <div class="noimg" hidden>
+           暂无图片 / No Image / ไม่มีรูปภาพ
+         </div>`
+      : `<div class="noimg">
+           暂无图片 / No Image / ไม่มีรูปภาพ
+         </div>`;
+
+    return `
+      <article class="item">
+        <div class="photo">${photo}</div>
+        <div class="info">
+          <div class="code">${esc(item.code || "—")}</div>
+          <div class="name">${esc(item.name || "—")}</div>
+          ${item.english
+            ? `<div class="eng">${esc(item.english)}</div>` : ""}
+          ${item.thai
+            ? `<div class="thai">${esc(item.thai)}</div>` : ""}
+
+          <div class="meta">
+            <span class="tag">
+              单台用量 / Usage per Unit / ปริมาณต่อเครื่อง：
+              ${esc(item.qty ?? "—")} ${esc(item.unit ?? "")}
+            </span>
+            <span class="tag model">
+              适用机型 / Applicable Models / รุ่นที่ใช้งานได้：
+              ${esc(models.join(" / ") || modelName(item.model).join(" / ") || "—")}
+            </span>
+          </div>
+        </div>
+      </article>`;
+  }).join("");
+}
+
+async function loadMaterials() {
+  try {
+    const response = await fetch("./data.json", {cache:"no-store"});
+    if (!response.ok) {
+      throw new Error("HTTP " + response.status);
+    }
+
+    const data = await response.json();
+
+    if (Array.isArray(data)) {
+      materials = data;
+    } else if (data && Array.isArray(data.materials)) {
+      materials = data.materials;
+    } else if (data && Array.isArray(data.data)) {
+      materials = data.data;
+    } else {
+      throw new Error("data.json 格式不是物料数组");
+    }
+
+    $("total").textContent =
+      `物料总数 / Total / ทั้งหมด：${materials.length}`;
+
+    render();
+  } catch (error) {
+    console.error("Failed to load data.json:", error);
+    $("total").textContent = "载入失败 / Load Error / โหลดไม่สำเร็จ";
+    $("count").textContent = "请检查资料文件 / Check data file";
+
+    $("results").innerHTML = `
+      <div class="empty">
+        <strong>物料资料载入失败 / Failed to Load Materials</strong>
+        请确认 data.json 位于 index.html 同一目录，且数据格式正确。<br>
+        Make sure data.json is in the same folder as index.html and contains valid material data.<br>
+        ตรวจสอบว่า data.json อยู่ในโฟลเดอร์เดียวกับ index.html และมีรูปแบบข้อมูลที่ถูกต้อง
+      </div>`;
+  }
+}
+
+$("search").addEventListener("click", render);
+$("model").addEventListener("change", render);
+$("keyword").addEventListener("input", render);
+
+$("keyword").addEventListener("keydown", event => {
+  if (event.key === "Enter") render();
+});
+
+loadMaterials();
 </script>
-</body></html>
+</body>
+</html>
